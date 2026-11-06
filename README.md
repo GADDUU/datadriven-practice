@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Scorecard](./practice/sql/service-scorecard) | SQL | Hard | 2026-10-26 |
 | [Three Clouds](./practice/sql/three-clouds) | SQL | Easy | 2026-10-26 |
 | [Storage Node Lookup](./practice/sql/storage-node-lookup) | SQL | Easy | 2026-10-26 |
 | [Ad Revenue 2026](./practice/sql/ad-revenue-year) | SQL | Easy | 2026-10-25 |
