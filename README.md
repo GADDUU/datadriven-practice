@@ -22,6 +22,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [The Slow Creep](./practice/sql/the-slow-creep) | SQL | Medium | 2026-10-18 |
 | [Echo Chamber](./practice/sql/echo-chamber) | SQL | Medium | 2026-10-18 |
 | [Left On](./practice/sql/left-on) | SQL | Medium | 2026-10-18 |
+| [Retried Failed API Calls](./practice/sql/retried-failed-api-calls) | SQL | Medium | 2026-10-18 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-10-18 |
 | [Top 2 Busiest API Slots](./practice/sql/top-2-busiest-api-slots) | SQL | Medium | 2026-10-18 |
 | [The Warm Edges](./practice/sql/the-warm-edges) | SQL | Medium | 2026-10-17 |
