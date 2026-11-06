@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-09-29 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-09-29 |
 | [CDN-Related DNS Lookups](./practice/sql/cdn-related-dns-lookups) | SQL | Easy | 2026-09-29 |
 | [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-09-29 |
