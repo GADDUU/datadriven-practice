@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Filtered User Roster](./practice/sql/filtered-user-roster) | SQL | Easy | 2026-10-23 |
 | [Priciest Item in Each Category](./practice/sql/priciest-item-in-each-category) | SQL | Medium | 2026-10-23 |
 | [Fastest Regions by Latency](./practice/sql/fastest-regions-by-latency) | SQL | Medium | 2026-10-23 |
 | [The Long Wait](./practice/sql/the-long-wait) | SQL | Easy | 2026-10-23 |
