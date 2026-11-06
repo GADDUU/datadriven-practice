@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top 10 CPU-Heavy Nodes](./practice/sql/top-10-cpu-heavy-nodes) | SQL | Medium | 2026-11-04 |
 | [The Loudest Machines](./practice/sql/the-loudest-machines) | SQL | Medium | 2026-11-04 |
 | [Average Watch Time by Format](./practice/sql/average-watch-time-by-format) | SQL | Medium | 2026-11-04 |
 | [Net Lines](./practice/sql/net-lines) | SQL | Medium | 2026-11-04 |
