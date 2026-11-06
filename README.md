@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Product Categories by Sales](./practice/sql/top-product-categories-by-sales) | SQL | Easy | 2026-10-27 |
 | [Average Review Comments by Author](./practice/sql/average-review-comments-by-author) | SQL | Medium | 2026-10-27 |
 | [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-10-27 |
 | [High Engagement Pages](./practice/sql/high-engagement-pages) | SQL | Hard | 2026-10-27 |
