@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Session-Fit Content](./practice/sql/session-fit-content) | SQL | Easy | 2026-10-29 |
 | [Endpoint Ranking](./practice/sql/endpoint-ranking) | SQL | Hard | 2026-10-29 |
 | [Top 5 Slowest DNS Lookups](./practice/sql/top-5-slowest-dns-lookups) | SQL | Easy | 2026-10-29 |
 | [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-10-29 |
