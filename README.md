@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Retargeting Campaign Impressions](./practice/sql/retargeting-campaign-impressions) | SQL | Easy | 2026-10-01 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-10-01 |
 | [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-10-01 |
 | [Session Overview](./practice/sql/session-overview) | SQL | Medium | 2026-10-01 |
