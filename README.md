@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Builds per Author per Branch](./practice/sql/builds-per-author-per-branch) | SQL | Medium | 2026-10-05 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-10-05 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-10-05 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-10-05 |
