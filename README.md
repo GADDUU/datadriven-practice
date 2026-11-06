@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Node CPU by Region](./practice/sql/average-node-cpu-by-region) | SQL | Easy | 2026-10-18 |
 | [Content Session Counts](./practice/sql/content-session-counts) | SQL | Medium | 2026-10-18 |
 | [Nobody Was Watching](./practice/sql/nobody-was-watching) | SQL | Easy | 2026-10-18 |
 | [Highest and Lowest Cloud Costs](./practice/sql/highest-and-lowest-cloud-costs) | SQL | Medium | 2026-10-18 |
