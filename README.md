@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-09-29 |
 | [Trim Search Terms Left](./practice/sql/trim-search-terms-left) | SQL | Easy | 2026-09-29 |
 | [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-09-29 |
 | [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-09-29 |
