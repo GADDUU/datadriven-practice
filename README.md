@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-10-02 |
 | [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-10-02 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-10-02 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-10-02 |
