@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Cost Categories](./practice/sql/top-cost-categories) | SQL | Medium | 2026-11-06 |
 | [The Ones Worth Paging](./practice/sql/the-ones-worth-paging) | SQL | Hard | 2026-11-06 |
 | [Accounted For](./practice/sql/accounted-for) | SQL | Medium | 2026-11-06 |
 | [The Cloud Bill](./practice/sql/the-cloud-bill) | SQL | Medium | 2026-11-06 |
