@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-10-06 |
 | [Data Repo Fix Commits](./practice/sql/data-repo-fix-commits) | SQL | Medium | 2026-10-05 |
 | [Cloud Bill](./practice/sql/cloud-bill) | SQL | Easy | 2026-10-05 |
 | [Campaigns With Most Clicks](./practice/sql/campaigns-with-most-clicks) | SQL | Medium | 2026-10-05 |
