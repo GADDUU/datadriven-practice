@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Frequent Message Senders](./practice/sql/frequent-message-senders) | SQL | Medium | 2026-10-22 |
 | [Regional Status](./practice/sql/regional-status) | SQL | Easy | 2026-10-22 |
 | [The Standing Fleet](./practice/sql/the-standing-fleet) | SQL | Easy | 2026-10-22 |
 | [Largest A/B Test by Participants](./practice/sql/largest-a-b-test-by-participants) | SQL | Medium | 2026-10-22 |
