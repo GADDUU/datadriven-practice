@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Year-over-Year Content Launches](./practice/sql/year-over-year-content-launches) | SQL | Medium | 2026-11-06 |
 | [Most Common Monday Outcome](./practice/sql/most-common-monday-outcome) | SQL | Medium | 2026-11-06 |
 | [Disabled-Flag Share by Owner](./practice/sql/disabled-flag-share-by-owner) | SQL | Medium | 2026-11-06 |
 | [API Token Churn Rate](./practice/sql/api-token-churn-rate) | SQL | Medium | 2026-11-06 |
