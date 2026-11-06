@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-10-01 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-10-01 |
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-10-01 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-10-01 |
