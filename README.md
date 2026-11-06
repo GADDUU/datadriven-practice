@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Even-ID February Signups](./practice/sql/even-id-february-signups) | SQL | Easy | 2026-11-05 |
 | [Third Largest Batch Job](./practice/sql/third-largest-batch-job) | SQL | Easy | 2026-11-05 |
 | [User Roster](./practice/sql/user-roster) | SQL | Easy | 2026-11-05 |
 | [The Spender Leaderboard](./practice/sql/the-spender-leaderboard) | SQL | Easy | 2026-11-05 |
