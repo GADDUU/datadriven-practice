@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-10-15 |
 | [Parallel Traces](./practice/sql/parallel-traces) | SQL | Medium | 2026-10-14 |
 | [Click-Through by Campaign](./practice/sql/click-through-by-campaign) | SQL | Medium | 2026-10-14 |
 | [Kings of the Aisle](./practice/sql/kings-of-the-aisle) | SQL | Medium | 2026-10-14 |
