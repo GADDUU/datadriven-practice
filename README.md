@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Double Take](./practice/sql/double-take) | SQL | Medium | 2026-10-21 |
 | [Product Ratings vs Sales](./practice/sql/product-ratings-vs-sales) | SQL | Medium | 2026-10-21 |
 | [New User Purchases](./practice/sql/new-user-purchases) | SQL | Medium | 2026-10-21 |
 | [Searches by Users With Email](./practice/sql/searches-by-users-with-email) | SQL | Easy | 2026-10-21 |
