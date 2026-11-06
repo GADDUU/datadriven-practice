@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The February Cohort](./practice/sql/the-february-cohort) | SQL | Easy | 2026-10-30 |
 | [Running Tab](./practice/sql/running-tab) | SQL | Medium | 2026-10-30 |
 | [The Last Checkout](./practice/sql/the-last-checkout) | SQL | Medium | 2026-10-30 |
 | [Bookends](./practice/sql/bookends) | SQL | Easy | 2026-10-30 |
