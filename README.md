@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Low Severity DQ Checks](./practice/sql/low-severity-dq-checks) | SQL | Easy | 2026-11-06 |
 | [Average GPU Node CPU Usage](./practice/sql/average-gpu-node-cpu-usage) | SQL | Easy | 2026-11-06 |
 | [Total Compute Cloud Cost](./practice/sql/total-compute-cloud-cost) | SQL | Easy | 2026-11-06 |
 | [Health Checks per Service](./practice/sql/health-checks-per-service) | SQL | Easy | 2026-11-06 |
