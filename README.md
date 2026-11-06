@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-09-30 |
 | [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-09-30 |
 | [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-09-30 |
 | [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-09-30 |
