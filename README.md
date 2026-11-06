@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [March Revenue by Customer](./practice/sql/march-revenue-by-customer) | SQL | Medium | 2026-11-05 |
 | [Top Products by Quantity Sold](./practice/sql/top-products-by-quantity-sold) | SQL | Medium | 2026-11-05 |
 | [Active User Revenue for April](./practice/sql/active-user-revenue-for-april) | SQL | Easy | 2026-11-05 |
 | [The Proving Ground](./practice/sql/the-proving-ground) | SQL | Medium | 2026-11-05 |
