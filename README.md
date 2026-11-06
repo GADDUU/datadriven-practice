@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Highest Latency Endpoints](./practice/sql/highest-latency-endpoints) | SQL | Easy | 2026-10-22 |
 | [Everyone Counts](./practice/sql/everyone-counts) | SQL | Easy | 2026-10-22 |
 | [Lines on the Map](./practice/sql/lines-on-the-map) | SQL | Medium | 2026-10-22 |
 | [Content Viewer Penetration](./practice/sql/content-viewer-penetration) | SQL | Easy | 2026-10-22 |
