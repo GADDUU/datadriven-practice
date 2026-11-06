@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total Cost by Category](./practice/sql/total-cost-by-category) | SQL | Easy | 2026-09-29 |
 | [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-09-28 |
 | [The Budget Line](./practice/sql/the-budget-line) | SQL | Easy | 2026-09-27 |
 | [Disabled Feature Flags](./practice/sql/disabled-feature-flags) | SQL | Easy | 2026-09-27 |
