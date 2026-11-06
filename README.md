@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [What Fills the Feed](./practice/sql/what-fills-the-feed) | SQL | Medium | 2026-10-23 |
 | [Metric Value Quarter Complement](./practice/sql/metric-value-quarter-complement) | SQL | Easy | 2026-10-23 |
 | [Cost Efficiency Ratio](./practice/sql/cost-efficiency-ratio) | SQL | Easy | 2026-10-23 |
 | [Turned Away](./practice/sql/turned-away) | SQL | Medium | 2026-10-23 |
