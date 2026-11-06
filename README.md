@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-09-29 |
 | [Total Cost by Category](./practice/sql/total-cost-by-category) | SQL | Easy | 2026-09-29 |
 | [The Lion's Share](./practice/sql/the-lion-s-share) | SQL | Medium | 2026-09-28 |
 | [The Budget Line](./practice/sql/the-budget-line) | SQL | Easy | 2026-09-27 |
