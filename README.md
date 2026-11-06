@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-10-02 |
 | [Timeout Warning Logs](./practice/sql/timeout-warning-logs) | SQL | Easy | 2026-10-02 |
 | [The Spending Floor](./practice/sql/the-spending-floor) | SQL | Easy | 2026-10-01 |
 | [Search Terms Starting With G](./practice/sql/search-terms-starting-with-g) | SQL | Easy | 2026-10-01 |
