@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Spender](./practice/sql/top-spender) | SQL | Medium | 2026-10-25 |
 | [The Loudest Caller](./practice/sql/the-loudest-caller) | SQL | Easy | 2026-10-25 |
 | [The Faithful Few](./practice/sql/the-faithful-few) | SQL | Medium | 2026-10-25 |
 | [Left on Read](./practice/sql/left-on-read) | SQL | Medium | 2026-10-25 |
