@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Easy | 2026-09-25 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-09-25 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-09-24 |
 | [The Stable and the Restless](./practice/sql/the-stable-and-the-restless) | SQL | Easy | 2026-09-22 |
