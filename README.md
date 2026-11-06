@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Daily Session and User Counts](./practice/sql/daily-session-and-user-counts) | SQL | Medium | 2026-10-17 |
 | [Months in Motion](./practice/sql/months-in-motion) | SQL | Medium | 2026-10-17 |
 | [What's in a Name](./practice/sql/what-s-in-a-name) | SQL | Easy | 2026-10-17 |
 | [Past the Threshold](./practice/sql/past-the-threshold) | SQL | Medium | 2026-10-17 |
