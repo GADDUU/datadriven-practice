@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Views by Specific Users](./practice/sql/views-by-specific-users) | SQL | Easy | 2026-11-05 |
 | [Last Seen](./practice/sql/last-seen) | SQL | Easy | 2026-11-05 |
 | [Platform Team Mobile Flags](./practice/sql/platform-team-mobile-flags) | SQL | Easy | 2026-11-05 |
 | [Targeted Ad Campaigns](./practice/sql/targeted-ad-campaigns) | SQL | Easy | 2026-11-05 |
