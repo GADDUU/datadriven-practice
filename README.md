@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Accounted For](./practice/sql/accounted-for) | SQL | Medium | 2026-11-06 |
 | [The Cloud Bill](./practice/sql/the-cloud-bill) | SQL | Medium | 2026-11-06 |
 | [Average Session Duration](./practice/sql/average-session-duration) | SQL | Medium | 2026-11-06 |
 | [Month With Fewest Deploys](./practice/sql/month-with-fewest-deploys) | SQL | Medium | 2026-11-06 |
