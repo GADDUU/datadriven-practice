@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Last Checkout](./practice/sql/the-last-checkout) | SQL | Medium | 2026-10-30 |
 | [Bookends](./practice/sql/bookends) | SQL | Easy | 2026-10-30 |
 | [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-10-30 |
 | [Alert Response Breakdown](./practice/sql/alert-response-breakdown) | SQL | Medium | 2026-10-30 |
