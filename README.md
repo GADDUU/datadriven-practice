@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Log Entries by Level](./practice/sql/log-entries-by-level) | SQL | Easy | 2026-10-21 |
 | [Yearly Output](./practice/sql/yearly-output) | SQL | Easy | 2026-10-21 |
 | [Tables With Most DQ Failures](./practice/sql/tables-with-most-dq-failures) | SQL | Medium | 2026-10-21 |
 | [Average API Latency by Year](./practice/sql/average-api-latency-by-year) | SQL | Medium | 2026-10-21 |
