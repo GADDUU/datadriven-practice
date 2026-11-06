@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Peak Metric Per Department](./practice/sql/peak-metric-per-department) | SQL | Easy | 2026-10-30 |
 | [Campaign Cost Effectiveness](./practice/sql/campaign-cost-effectiveness) | SQL | Medium | 2026-10-30 |
 | [Clean Exit](./practice/sql/clean-exit) | SQL | Easy | 2026-10-30 |
 | [What Set It Off](./practice/sql/what-set-it-off) | SQL | Easy | 2026-10-30 |
