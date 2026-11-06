@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The One That Flew](./practice/sql/the-one-that-flew) | SQL | Medium | 2026-11-06 |
 | [Average Response Time by Hour](./practice/sql/average-response-time-by-hour) | SQL | Easy | 2026-11-06 |
 | [Non-Draft Content](./practice/sql/non-draft-content) | SQL | Easy | 2026-11-05 |
 | [Features With Missing Values](./practice/sql/features-with-missing-values) | SQL | Easy | 2026-11-05 |
