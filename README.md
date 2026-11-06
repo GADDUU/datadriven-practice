@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
 | [Search Endpoint Status Distribution](./practice/sql/search-endpoint-status-distribution) | SQL | Easy | 2026-10-02 |
 | [The Long Watch](./practice/sql/the-long-watch) | SQL | Medium | 2026-10-02 |
 | [Top of the Line](./practice/sql/top-of-the-line) | SQL | Easy | 2026-10-02 |
