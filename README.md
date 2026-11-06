@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deploy Cadence](./practice/sql/deploy-cadence) | SQL | Easy | 2026-10-20 |
 | [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-10-20 |
 | [The Perennials](./practice/sql/the-perennials) | SQL | Easy | 2026-10-20 |
 | [Unique Visitors](./practice/sql/unique-visitors) | SQL | Easy | 2026-10-20 |
