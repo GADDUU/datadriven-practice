@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-10-17 |
 | [Below the Line](./practice/sql/below-the-line) | SQL | Medium | 2026-10-17 |
 | [Still Breathing](./practice/sql/still-breathing) | SQL | Medium | 2026-10-17 |
 | [Name Recognition](./practice/sql/name-recognition) | SQL | Medium | 2026-10-17 |
