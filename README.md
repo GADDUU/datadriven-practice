@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-10-01 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-10-01 |
 | [The Far Ends](./practice/sql/the-far-ends) | SQL | Easy | 2026-10-01 |
 | [Top 10 Model Accuracies](./practice/sql/top-10-model-accuracies) | SQL | Easy | 2026-10-01 |
