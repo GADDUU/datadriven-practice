@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Trend Spotter](./practice/sql/trend-spotter) | SQL | Medium | 2026-11-01 |
 | [Running Node Pairs](./practice/sql/running-node-pairs) | SQL | Easy | 2026-11-01 |
 | [Rate Limit Rules Per Endpoint](./practice/sql/rate-limit-rules-per-endpoint) | SQL | Medium | 2026-11-01 |
 | [Email Census](./practice/sql/email-census) | SQL | Easy | 2026-11-01 |
