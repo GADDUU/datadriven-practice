@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Component Classification](./practice/sql/service-component-classification) | SQL | Medium | 2026-10-18 |
 | [The Weight of Between](./practice/sql/the-weight-of-between) | SQL | Easy | 2026-10-18 |
 | [The Transaction Breakdown](./practice/sql/the-transaction-breakdown) | SQL | Easy | 2026-10-18 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-10-18 |
