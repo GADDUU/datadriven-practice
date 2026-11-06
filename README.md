@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Far Ends](./practice/sql/the-far-ends) | SQL | Easy | 2026-10-01 |
 | [Top 10 Model Accuracies](./practice/sql/top-10-model-accuracies) | SQL | Easy | 2026-10-01 |
 | [Mobile vs Desktop Session Duration](./practice/sql/mobile-vs-desktop-session-duration) | SQL | Medium | 2026-10-01 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-09-30 |
