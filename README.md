@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Second to One](./practice/sql/second-to-one) | SQL | Medium | 2026-10-28 |
 | [First Half of Page Views](./practice/sql/first-half-of-page-views) | SQL | Medium | 2026-10-28 |
 | [Rating Tiers](./practice/sql/rating-tiers) | SQL | Medium | 2026-10-28 |
 | [Going Once](./practice/sql/going-once) | SQL | Medium | 2026-10-28 |
