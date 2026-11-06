@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Opening Run](./practice/sql/the-opening-run) | SQL | Easy | 2026-11-01 |
 | [Many Eyes](./practice/sql/many-eyes) | SQL | Medium | 2026-11-01 |
 | [Users Without Sessions](./practice/sql/users-without-sessions) | SQL | Medium | 2026-11-01 |
 | [Cloud Cost Stats by Provider](./practice/sql/cloud-cost-stats-by-provider) | SQL | Medium | 2026-11-01 |
