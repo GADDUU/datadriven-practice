@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Session Pulse](./practice/sql/session-pulse) | SQL | Easy | 2026-10-21 |
 | [Where the Talking Stops](./practice/sql/where-the-talking-stops) | SQL | Easy | 2026-10-21 |
 | [Clean Averages](./practice/sql/clean-averages) | SQL | Easy | 2026-10-21 |
 | [Last Migration Record](./practice/sql/last-migration-record) | SQL | Easy | 2026-10-21 |
