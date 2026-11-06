@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Auth Endpoints](./practice/sql/auth-endpoints) | SQL | Easy | 2026-10-01 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-10-01 |
 | [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-10-01 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-10-01 |
