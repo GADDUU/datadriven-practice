@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Fresh Ink](./practice/sql/fresh-ink) | SQL | Medium | 2026-11-02 |
 | [Rush Hour API Latency](./practice/sql/rush-hour-api-latency) | SQL | Medium | 2026-11-02 |
 | [The Sweet Spot](./practice/sql/the-sweet-spot) | SQL | Medium | 2026-11-02 |
 | [Gone to Ground](./practice/sql/gone-to-ground) | SQL | Medium | 2026-11-02 |
