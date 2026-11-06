@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-10-08 |
 | [Services at Median Uptime](./practice/sql/services-at-median-uptime) | SQL | Medium | 2026-10-08 |
 | [Duplicated User Event Messages](./practice/sql/duplicated-user-event-messages) | SQL | Medium | 2026-10-07 |
 | [First Time Learners Per Day](./practice/sql/first-time-learners-per-day) | SQL | Medium | 2026-10-07 |
