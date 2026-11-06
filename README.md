@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Noise Floor](./practice/sql/the-noise-floor) | SQL | Medium | 2026-10-23 |
 | [Batch Job Performance Tiers](./practice/sql/batch-job-performance-tiers) | SQL | Medium | 2026-10-23 |
 | [The Undone](./practice/sql/the-undone) | SQL | Hard | 2026-10-23 |
 | [Endpoint Performance Report](./practice/sql/endpoint-performance-report) | SQL | Medium | 2026-10-23 |
