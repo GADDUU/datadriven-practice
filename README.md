@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Budget per Head](./practice/sql/service-budget-per-head) | SQL | Medium | 2026-10-06 |
 | [The Long Tail](./practice/sql/the-long-tail) | SQL | Medium | 2026-10-06 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-10-06 |
 | [Data Repo Fix Commits](./practice/sql/data-repo-fix-commits) | SQL | Medium | 2026-10-05 |
