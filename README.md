@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-09-30 |
 | [Long Searches Containing 'er'](./practice/sql/long-searches-containing-er) | SQL | Easy | 2026-09-30 |
 | [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-09-30 |
 | [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-09-30 |
