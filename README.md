@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-10-27 |
 | [High Engagement Pages](./practice/sql/high-engagement-pages) | SQL | Hard | 2026-10-27 |
 | [Department Spend Difference](./practice/sql/department-spend-difference) | SQL | Easy | 2026-10-27 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-27 |
