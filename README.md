@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Email Census](./practice/sql/email-census) | SQL | Easy | 2026-11-01 |
 | [Latest Version Per Service](./practice/sql/latest-version-per-service) | SQL | Easy | 2026-11-01 |
 | [April and May Active Users](./practice/sql/april-and-may-active-users) | SQL | Easy | 2026-11-01 |
 | [Ad Revenue by Age Bucket](./practice/sql/ad-revenue-by-age-bucket) | SQL | Medium | 2026-11-01 |
