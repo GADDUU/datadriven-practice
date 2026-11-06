@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Between Worlds](./practice/sql/between-worlds) | SQL | Easy | 2026-10-18 |
 | [The Slow Creep](./practice/sql/the-slow-creep) | SQL | Medium | 2026-10-18 |
 | [Echo Chamber](./practice/sql/echo-chamber) | SQL | Medium | 2026-10-18 |
 | [Left On](./practice/sql/left-on) | SQL | Medium | 2026-10-18 |
