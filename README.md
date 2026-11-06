@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [First and Last Peak Accuracy Dates](./practice/sql/first-and-last-peak-accuracy-dates) | SQL | Medium | 2026-11-05 |
 | [The Engagement Curve](./practice/sql/the-engagement-curve) | SQL | Medium | 2026-11-05 |
 | [Second Highest Salary](./practice/sql/second-highest-salary) | SQL | Easy | 2026-11-05 |
 | [Satisfaction by Platform](./practice/sql/satisfaction-by-platform) | SQL | Medium | 2026-11-05 |
