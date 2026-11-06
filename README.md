@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Nobody Was Watching](./practice/sql/nobody-was-watching) | SQL | Easy | 2026-10-18 |
 | [Highest and Lowest Cloud Costs](./practice/sql/highest-and-lowest-cloud-costs) | SQL | Medium | 2026-10-18 |
 | [Service Component Classification](./practice/sql/service-component-classification) | SQL | Medium | 2026-10-18 |
 | [The Weight of Between](./practice/sql/the-weight-of-between) | SQL | Easy | 2026-10-18 |
