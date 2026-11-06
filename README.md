@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Session Duration](./practice/sql/average-session-duration) | SQL | Medium | 2026-11-06 |
 | [Month With Fewest Deploys](./practice/sql/month-with-fewest-deploys) | SQL | Medium | 2026-11-06 |
 | [Year-over-Year Content Launches](./practice/sql/year-over-year-content-launches) | SQL | Medium | 2026-11-06 |
 | [Most Common Monday Outcome](./practice/sql/most-common-monday-outcome) | SQL | Medium | 2026-11-06 |
