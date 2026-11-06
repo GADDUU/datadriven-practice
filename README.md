@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Platform Team Feature Flags](./practice/sql/platform-team-feature-flags) | SQL | Easy | 2026-10-30 |
 | [High Price Products](./practice/sql/high-price-products) | SQL | Easy | 2026-10-30 |
 | [The February Cohort](./practice/sql/the-february-cohort) | SQL | Easy | 2026-10-30 |
 | [Running Tab](./practice/sql/running-tab) | SQL | Medium | 2026-10-30 |
