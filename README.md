@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Search Terms Starting With G](./practice/sql/search-terms-starting-with-g) | SQL | Easy | 2026-10-01 |
 | [Find Deploy Authors](./practice/sql/find-deploy-authors) | SQL | Easy | 2026-10-01 |
 | [Content Type Distribution](./practice/sql/content-type-distribution) | SQL | Easy | 2026-10-01 |
 | [Products Without Sales](./practice/sql/products-without-sales) | SQL | Easy | 2026-10-01 |
