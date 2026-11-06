@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Third Largest Batch Job](./practice/sql/third-largest-batch-job) | SQL | Easy | 2026-11-05 |
 | [User Roster](./practice/sql/user-roster) | SQL | Easy | 2026-11-05 |
 | [The Spender Leaderboard](./practice/sql/the-spender-leaderboard) | SQL | Easy | 2026-11-05 |
 | [This Year's Class](./practice/sql/this-year-s-class) | SQL | Easy | 2026-11-05 |
