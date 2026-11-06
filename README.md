@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above the Fold](./practice/sql/above-the-fold) | SQL | Hard | 2026-10-23 |
 | [Quiet Failures](./practice/sql/quiet-failures) | SQL | Medium | 2026-10-23 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-10-23 |
 | [Average Results for Python Searches](./practice/sql/average-results-for-python-searches) | SQL | Medium | 2026-10-23 |
