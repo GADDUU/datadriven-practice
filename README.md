@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Waiting Room](./practice/sql/the-waiting-room) | SQL | Easy | 2026-10-14 |
 | [Busy Authors](./practice/sql/busy-authors) | SQL | Medium | 2026-10-14 |
 | [The Quiet Middle](./practice/sql/the-quiet-middle) | SQL | Easy | 2026-10-14 |
 | [User Age Ranking](./practice/sql/user-age-ranking) | SQL | Easy | 2026-10-13 |
