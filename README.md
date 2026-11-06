@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Monthly Active Users per Endpoint](./practice/sql/monthly-active-users-per-endpoint) | SQL | Easy | 2026-10-20 |
 | [Thirty Days of Shipping](./practice/sql/thirty-days-of-shipping) | SQL | Easy | 2026-10-20 |
 | [Who We Reached](./practice/sql/who-we-reached) | SQL | Easy | 2026-10-20 |
 | [The Apprentices Still in the Forge](./practice/sql/the-apprentices-still-in-the-forge) | SQL | Easy | 2026-10-20 |
