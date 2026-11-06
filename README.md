@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Silent Probe](./practice/sql/the-silent-probe) | SQL | Easy | 2026-11-03 |
 | [Top Batch Job Under Priority 1](./practice/sql/top-batch-job-under-priority-1) | SQL | Medium | 2026-11-03 |
 | [The Loudest Failures](./practice/sql/the-loudest-failures) | SQL | Medium | 2026-11-03 |
 | [The Full Picture](./practice/sql/the-full-picture) | SQL | Easy | 2026-11-03 |
