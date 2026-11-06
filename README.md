@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Priciest Item in Each Category](./practice/sql/priciest-item-in-each-category) | SQL | Medium | 2026-10-23 |
 | [Fastest Regions by Latency](./practice/sql/fastest-regions-by-latency) | SQL | Medium | 2026-10-23 |
 | [The Long Wait](./practice/sql/the-long-wait) | SQL | Easy | 2026-10-23 |
 | [Holiday Promo Campaign Click Year](./practice/sql/holiday-promo-campaign-click-year) | SQL | Easy | 2026-10-23 |
