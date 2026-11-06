@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-10-17 |
 | [The Ones That Woke Us](./practice/sql/the-ones-that-woke-us) | SQL | Easy | 2026-10-17 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-10-17 |
 | [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-10-17 |
