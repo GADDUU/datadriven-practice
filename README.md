@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Rating Tiers](./practice/sql/rating-tiers) | SQL | Medium | 2026-10-28 |
 | [Going Once](./practice/sql/going-once) | SQL | Medium | 2026-10-28 |
 | [Top 10 Batch Jobs](./practice/sql/top-10-batch-jobs) | SQL | Easy | 2026-10-28 |
 | [Price Rank](./practice/sql/price-rank) | SQL | Medium | 2026-10-28 |
