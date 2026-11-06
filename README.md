@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Session Overview](./practice/sql/session-overview) | SQL | Medium | 2026-10-01 |
 | [Total Engineering Cost Allocation](./practice/sql/total-engineering-cost-allocation) | SQL | Easy | 2026-10-01 |
 | [The Heaviest Hitters](./practice/sql/the-heaviest-hitters) | SQL | Easy | 2026-10-01 |
 | [The Elite](./practice/sql/the-elite) | SQL | Easy | 2026-10-01 |
