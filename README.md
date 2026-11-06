@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Dormant Accounts](./practice/sql/the-dormant-accounts) | SQL | Easy | 2026-10-15 |
 | [All Known Endpoints](./practice/sql/all-known-endpoints) | SQL | Medium | 2026-10-15 |
 | [Top Repos by Successful Builds](./practice/sql/top-repos-by-successful-builds) | SQL | Medium | 2026-10-15 |
 | [Parallel Traces](./practice/sql/parallel-traces) | SQL | Medium | 2026-10-14 |
