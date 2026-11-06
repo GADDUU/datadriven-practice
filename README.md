@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Prime Real Estate](./practice/sql/prime-real-estate) | SQL | Easy | 2026-10-20 |
 | [Category Census](./practice/sql/category-census) | SQL | Easy | 2026-10-20 |
 | [Shared Endpoints](./practice/sql/shared-endpoints) | SQL | Medium | 2026-10-20 |
 | [Users Who Clicked Ads](./practice/sql/users-who-clicked-ads) | SQL | Easy | 2026-10-20 |
