@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cloud Cost Stats by Provider](./practice/sql/cloud-cost-stats-by-provider) | SQL | Medium | 2026-11-01 |
 | [Buyers Who Never Browsed](./practice/sql/buyers-who-never-browsed) | SQL | Easy | 2026-11-01 |
 | [Trend Spotter](./practice/sql/trend-spotter) | SQL | Medium | 2026-11-01 |
 | [Running Node Pairs](./practice/sql/running-node-pairs) | SQL | Easy | 2026-11-01 |
