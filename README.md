@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-10-02 |
 | [The Quiet Drain](./practice/sql/the-quiet-drain) | SQL | Easy | 2026-10-02 |
 | [Point of Entry](./practice/sql/point-of-entry) | SQL | Hard | 2026-10-02 |
 | [Non-Bot Acknowledged Alerts](./practice/sql/non-bot-acknowledged-alerts) | SQL | Easy | 2026-10-02 |
