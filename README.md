@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Annual Cloud Spend](./practice/sql/annual-cloud-spend) | SQL | Easy | 2026-11-05 |
 | [The Campaign Trail](./practice/sql/the-campaign-trail) | SQL | Easy | 2026-11-05 |
 | [Top-Ranked Wines by Variety](./practice/sql/top-ranked-wines-by-variety) | SQL | Easy | 2026-11-05 |
 | [Even-ID February Signups](./practice/sql/even-id-february-signups) | SQL | Easy | 2026-11-05 |
