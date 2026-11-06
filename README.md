@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Review Comments by Author](./practice/sql/average-review-comments-by-author) | SQL | Medium | 2026-10-27 |
 | [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-10-27 |
 | [High Engagement Pages](./practice/sql/high-engagement-pages) | SQL | Hard | 2026-10-27 |
 | [Department Spend Difference](./practice/sql/department-spend-difference) | SQL | Easy | 2026-10-27 |
