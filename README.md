@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-10-19 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-10-19 |
 | [The Loudest Signals](./practice/sql/the-loudest-signals) | SQL | Easy | 2026-10-19 |
 | [Busiest Pipeline Month](./practice/sql/busiest-pipeline-month) | SQL | Medium | 2026-10-19 |
