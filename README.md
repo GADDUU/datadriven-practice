@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Clicked Ad Impressions](./practice/sql/clicked-ad-impressions) | SQL | Easy | 2026-11-06 |
 | [Slow Production Deploys](./practice/sql/slow-production-deploys) | SQL | Easy | 2026-11-06 |
 | [Top Cost Categories](./practice/sql/top-cost-categories) | SQL | Medium | 2026-11-06 |
 | [The Ones Worth Paging](./practice/sql/the-ones-worth-paging) | SQL | Hard | 2026-11-06 |
