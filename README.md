@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High-Spend 2025 Campaigns](./practice/sql/high-spend-year-1-campaigns) | SQL | Easy | 2026-10-16 |
 | [Broken Promises Between Tables](./practice/sql/broken-promises-between-tables) | SQL | Medium | 2026-10-15 |
 | [Selling Where Nobody Lives](./practice/sql/selling-where-nobody-lives) | SQL | Medium | 2026-10-15 |
 | [Top Per Category](./practice/sql/top-per-category) | SQL | Hard | 2026-10-15 |
