@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Migration Record](./practice/sql/last-migration-record) | SQL | Easy | 2026-10-21 |
 | [Average Session Duration by Device](./practice/sql/average-session-duration-by-device) | SQL | Easy | 2026-10-21 |
 | [User Engagement Summary](./practice/sql/user-engagement-summary) | SQL | Medium | 2026-10-21 |
 | [Custom Message Type Counts](./practice/sql/custom-message-type-counts) | SQL | Medium | 2026-10-21 |
