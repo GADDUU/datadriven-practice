@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Monthly Signup Counts](./practice/sql/monthly-signup-counts) | SQL | Easy | 2026-11-02 |
 | [Shared Category Purchasers](./practice/sql/shared-category-purchasers) | SQL | Medium | 2026-11-02 |
 | [Alert Severity](./practice/sql/alert-severity) | SQL | Hard | 2026-11-01 |
 | [The Ones Who Return](./practice/sql/the-ones-who-return) | SQL | Medium | 2026-11-01 |
