@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Regional Footprint](./practice/sql/regional-footprint) | SQL | Easy | 2026-10-21 |
 | [Deployed Models by Framework](./practice/sql/deployed-models-by-framework) | SQL | Easy | 2026-10-21 |
 | [Multi-Host Regions by Node Type](./practice/sql/multi-host-regions-by-node-type) | SQL | Medium | 2026-10-21 |
 | [Peak Hour Power Callers](./practice/sql/peak-hour-power-callers) | SQL | Medium | 2026-10-21 |
