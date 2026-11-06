@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Proving Ground](./practice/sql/the-proving-ground) | SQL | Medium | 2026-11-05 |
 | [Closing the Books](./practice/sql/closing-the-books) | SQL | Easy | 2026-11-05 |
 | [Department Snapshot](./practice/sql/department-snapshot) | SQL | Medium | 2026-11-05 |
 | [The Quiet Alarms](./practice/sql/the-quiet-alarms) | SQL | Medium | 2026-11-05 |
