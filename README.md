@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Diverse Shoppers](./practice/sql/diverse-shoppers) | SQL | Medium | 2026-10-22 |
 | [Daily Cross-Platform Users](./practice/sql/daily-cross-platform-users) | SQL | Easy | 2026-10-22 |
 | [Users Per Device Type](./practice/sql/users-per-device-type) | SQL | Easy | 2026-10-22 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-10-22 |
