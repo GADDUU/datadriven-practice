@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-10-30 |
 | [Alert Response Breakdown](./practice/sql/alert-response-breakdown) | SQL | Medium | 2026-10-30 |
 | [Tiers of Want](./practice/sql/tiers-of-want) | SQL | Hard | 2026-10-30 |
 | [Peak Metric Per Department](./practice/sql/peak-metric-per-department) | SQL | Easy | 2026-10-30 |
