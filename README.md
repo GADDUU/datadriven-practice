@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Sessions Per User](./practice/sql/average-sessions-per-user) | SQL | Hard | 2026-11-06 |
 | [The First Door](./practice/sql/the-first-door) | SQL | Medium | 2026-11-06 |
 | [Events by Month Across Years](./practice/sql/events-by-month-across-years) | SQL | Easy | 2026-11-06 |
 | [Longest Deploy With Full Identifier](./practice/sql/longest-deploy-with-full-identifier) | SQL | Easy | 2026-11-06 |
