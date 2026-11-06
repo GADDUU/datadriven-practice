@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Long Watch](./practice/sql/the-long-watch) | SQL | Medium | 2026-10-02 |
 | [Top of the Line](./practice/sql/top-of-the-line) | SQL | Easy | 2026-10-02 |
 | [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-10-02 |
 | [The Quiet Drain](./practice/sql/the-quiet-drain) | SQL | Easy | 2026-10-02 |
