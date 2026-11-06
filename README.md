@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Mobile vs Desktop Session Duration](./practice/sql/mobile-vs-desktop-session-duration) | SQL | Medium | 2026-10-01 |
 | [Return on a Glance](./practice/sql/return-on-a-glance) | SQL | Easy | 2026-09-30 |
 | [Content Sorted by Duration](./practice/sql/content-sorted-by-duration) | SQL | Easy | 2026-09-30 |
 | [Session Logins Dec 13 to 19](./practice/sql/session-logins-dec-13-to-19) | SQL | Easy | 2026-09-30 |
