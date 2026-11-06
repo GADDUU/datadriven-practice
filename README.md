@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Lowest Average Price Category](./practice/sql/lowest-average-price-category) | SQL | Easy | 2026-10-18 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-10-18 |
 | [Average Node CPU by Region](./practice/sql/average-node-cpu-by-region) | SQL | Easy | 2026-10-18 |
 | [Content Session Counts](./practice/sql/content-session-counts) | SQL | Medium | 2026-10-18 |
