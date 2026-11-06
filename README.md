@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Product Revenue Ranking](./practice/sql/product-revenue-ranking) | SQL | Easy | 2026-11-05 |
 | [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-11-05 |
 | [Cart Sizes](./practice/sql/cart-sizes) | SQL | Easy | 2026-11-05 |
 | [First and Last Peak Accuracy Dates](./practice/sql/first-and-last-peak-accuracy-dates) | SQL | Medium | 2026-11-05 |
