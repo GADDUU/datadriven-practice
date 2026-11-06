@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-09-29 |
 | [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-09-29 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-09-29 |
 | [CDN-Related DNS Lookups](./practice/sql/cdn-related-dns-lookups) | SQL | Easy | 2026-09-29 |
