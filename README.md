@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [API Token Churn Rate](./practice/sql/api-token-churn-rate) | SQL | Medium | 2026-11-06 |
 | [Q by Q](./practice/sql/q-by-q) | SQL | Easy | 2026-11-06 |
 | [Unclicked Searches by Campaign](./practice/sql/unclicked-searches-by-campaign) | SQL | Medium | 2026-11-06 |
 | [Top Shelf](./practice/sql/top-shelf) | SQL | Easy | 2026-11-06 |
