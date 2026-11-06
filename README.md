@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-09-30 |
 | [Successful Production Deploys](./practice/sql/successful-production-deploys) | SQL | Easy | 2026-09-30 |
 | [The Ones Who Finish](./practice/sql/the-ones-who-finish) | SQL | Medium | 2026-09-30 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-09-29 |
