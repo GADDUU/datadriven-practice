@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Under the Same Name](./practice/sql/under-the-same-name) | SQL | Easy | 2026-10-01 |
 | [Content Published in 2026](./practice/sql/content-published-in-year) | SQL | Easy | 2026-10-01 |
 | [Titles Ending With S](./practice/sql/titles-ending-with-s) | SQL | Easy | 2026-10-01 |
 | [Unique Stream Topics](./practice/sql/unique-stream-topics) | SQL | Easy | 2026-10-01 |
