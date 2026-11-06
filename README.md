@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ghosts in the Campaign](./practice/sql/ghosts-in-the-campaign) | SQL | Easy | 2026-10-02 |
 | [High-Value Electronics](./practice/sql/high-value-electronics) | SQL | Easy | 2026-10-02 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-10-02 |
 | [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-10-02 |
