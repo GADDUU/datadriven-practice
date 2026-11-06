@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-19 |
 | [Read the Manual](./practice/sql/read-the-manual) | SQL | Easy | 2026-10-18 |
 | [Lowest Average Price Category](./practice/sql/lowest-average-price-category) | SQL | Easy | 2026-10-18 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-10-18 |
