@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-19 |
 | [The Switchboard](./practice/sql/the-switchboard) | SQL | Medium | 2026-10-19 |
 | [Average Compensation by Department and Status](./practice/sql/average-compensation-by-department-and-status) | SQL | Medium | 2026-10-19 |
 | [Pairwise Latency Maximum](./practice/sql/pairwise-latency-maximum) | SQL | Medium | 2026-10-19 |
