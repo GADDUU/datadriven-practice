@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Morning Warning Logs](./practice/sql/morning-warning-logs) | SQL | Easy | 2026-11-06 |
 | [Content Mix](./practice/sql/content-mix) | SQL | Easy | 2026-11-06 |
 | [Latency Variance and Std Dev](./practice/sql/latency-variance-and-std-dev) | SQL | Hard | 2026-11-06 |
 | [The One That Flew](./practice/sql/the-one-that-flew) | SQL | Medium | 2026-11-06 |
