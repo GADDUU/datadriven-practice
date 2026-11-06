@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [February 2024 Signups](./practice/sql/february-year-2-signups) | SQL | Easy | 2026-11-04 |
 | [In the Shadow of the Peak](./practice/sql/in-the-shadow-of-the-peak) | SQL | Medium | 2026-11-04 |
 | [Regions by Alert Volume](./practice/sql/regions-by-alert-volume) | SQL | Medium | 2026-11-04 |
 | [Top 10 CPU-Heavy Nodes](./practice/sql/top-10-cpu-heavy-nodes) | SQL | Medium | 2026-11-04 |
