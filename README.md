@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Reliability Tiers](./practice/sql/service-reliability-tiers) | SQL | Medium | 2026-10-23 |
 | [API Calls With and Without Errors](./practice/sql/api-calls-with-and-without-errors) | SQL | Medium | 2026-10-23 |
 | [Where the Signal Drops](./practice/sql/where-the-signal-drops) | SQL | Medium | 2026-10-23 |
 | [Log Priority](./practice/sql/log-priority) | SQL | Easy | 2026-10-23 |
