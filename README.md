@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Department Spend Difference](./practice/sql/department-spend-difference) | SQL | Easy | 2026-10-27 |
 | [Error Category Breakdown](./practice/sql/error-category-breakdown) | SQL | Hard | 2026-10-27 |
 | [Loyalty's Double Tap](./practice/sql/loyalty-s-double-tap) | SQL | Medium | 2026-10-26 |
 | [Price Check](./practice/sql/price-check) | SQL | Easy | 2026-10-26 |
