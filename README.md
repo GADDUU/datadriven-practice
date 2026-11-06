@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Apprentices Still in the Forge](./practice/sql/the-apprentices-still-in-the-forge) | SQL | Easy | 2026-10-20 |
 | [Top Percentile API Tokens](./practice/sql/top-percentile-api-tokens) | SQL | Hard | 2026-10-19 |
 | [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-10-19 |
 | [Overloaded Infrastructure Nodes](./practice/sql/overloaded-infrastructure-nodes) | SQL | Medium | 2026-10-19 |
