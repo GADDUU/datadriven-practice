@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Weekly Transaction Volume](./practice/sql/weekly-transaction-volume) | SQL | Easy | 2026-11-06 |
 | [Event Count on Key Days](./practice/sql/event-count-on-key-days) | SQL | Easy | 2026-11-06 |
 | [Morning Warning Logs](./practice/sql/morning-warning-logs) | SQL | Easy | 2026-11-06 |
 | [Content Mix](./practice/sql/content-mix) | SQL | Easy | 2026-11-06 |
