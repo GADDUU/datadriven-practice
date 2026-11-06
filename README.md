@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-09-29 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-09-29 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-09-29 |
 | [Total Cost by Category](./practice/sql/total-cost-by-category) | SQL | Easy | 2026-09-29 |
