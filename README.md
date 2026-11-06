@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Recurring Error Types](./practice/sql/recurring-error-types) | SQL | Easy | 2026-10-21 |
 | [Status Report](./practice/sql/status-report) | SQL | Easy | 2026-10-21 |
 | [Double Take](./practice/sql/double-take) | SQL | Medium | 2026-10-21 |
 | [Product Ratings vs Sales](./practice/sql/product-ratings-vs-sales) | SQL | Medium | 2026-10-21 |
