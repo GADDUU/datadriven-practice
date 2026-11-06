@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Impressions by Search Keyword](./practice/sql/impressions-by-search-keyword) | SQL | Hard | 2026-11-03 |
 | [The Price of a Tap](./practice/sql/the-price-of-a-tap) | SQL | Easy | 2026-11-03 |
 | [Split Metric Sums](./practice/sql/split-metric-sums) | SQL | Medium | 2026-11-03 |
 | [Activity Histogram](./practice/sql/activity-histogram) | SQL | Easy | 2026-11-03 |
