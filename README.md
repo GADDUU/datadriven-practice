@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones Who Finish](./practice/sql/the-ones-who-finish) | SQL | Medium | 2026-09-30 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-09-29 |
 | [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-09-29 |
 | [Trim Search Terms Left](./practice/sql/trim-search-terms-left) | SQL | Easy | 2026-09-29 |
