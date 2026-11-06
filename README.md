@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-10-19 |
 | [Overloaded Infrastructure Nodes](./practice/sql/overloaded-infrastructure-nodes) | SQL | Medium | 2026-10-19 |
 | [Noisy Endpoints](./practice/sql/noisy-endpoints) | SQL | Medium | 2026-10-19 |
 | [Heavy Namespaces](./practice/sql/heavy-namespaces) | SQL | Medium | 2026-10-19 |
