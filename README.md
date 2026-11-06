@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Transaction Breakdown](./practice/sql/the-transaction-breakdown) | SQL | Easy | 2026-10-18 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-10-18 |
 | [Between Worlds](./practice/sql/between-worlds) | SQL | Easy | 2026-10-18 |
 | [The Slow Creep](./practice/sql/the-slow-creep) | SQL | Medium | 2026-10-18 |
