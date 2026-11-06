@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Did Anyone Actually Read It?](./practice/sql/did-anyone-actually-read-it) | SQL | Easy | 2026-11-04 |
 | [User Sessions on Specific Days](./practice/sql/user-sessions-on-specific-days) | SQL | Easy | 2026-11-04 |
 | [Heavy Hitters](./practice/sql/heavy-hitters) | SQL | Medium | 2026-11-04 |
 | [February 2024 Signups](./practice/sql/february-year-2-signups) | SQL | Easy | 2026-11-04 |
