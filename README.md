@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Clean Cache CDN Edges](./practice/sql/clean-cache-cdn-edges) | SQL | Easy | 2026-10-05 |
 | [Both Ends of the Pipe](./practice/sql/both-ends-of-the-pipe) | SQL | Medium | 2026-10-05 |
 | [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-10-05 |
 | [Builds per Author per Branch](./practice/sql/builds-per-author-per-branch) | SQL | Medium | 2026-10-05 |
