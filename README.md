@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-09-29 |
 | [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-09-29 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-09-29 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-09-29 |
