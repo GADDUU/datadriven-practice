@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [Repeat Offenders of the Search Bar](./practice/sql/repeat-offenders-of-the-search-bar) | SQL | Easy | 2026-10-22 |
 | [Ship It or Skip It](./practice/sql/ship-it-or-skip-it) | SQL | Easy | 2026-10-22 |
 | [Highest Latency Endpoints](./practice/sql/highest-latency-endpoints) | SQL | Easy | 2026-10-22 |
