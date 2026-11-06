@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Platform Speed](./practice/sql/platform-speed) | SQL | Medium | 2026-10-12 |
 | [Back Again](./practice/sql/back-again) | SQL | Medium | 2026-10-11 |
 | [Who Comes Early](./practice/sql/who-comes-early) | SQL | Easy | 2026-10-10 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-09 |
