@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where the Money Goes](./practice/sql/where-the-money-goes) | SQL | Hard | 2026-10-28 |
 | [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-10-28 |
 | [First Migration Record](./practice/sql/first-migration-record) | SQL | Easy | 2026-10-27 |
 | [Top Users by Session Time](./practice/sql/top-users-by-session-time) | SQL | Medium | 2026-10-27 |
