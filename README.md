@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [What Set It Off](./practice/sql/what-set-it-off) | SQL | Easy | 2026-10-30 |
 | [Silent Users](./practice/sql/silent-users) | SQL | Medium | 2026-10-30 |
 | [After Hours API Calls](./practice/sql/after-hours-api-calls) | SQL | Medium | 2026-10-30 |
 | [Session-Fit Content](./practice/sql/session-fit-content) | SQL | Easy | 2026-10-29 |
