@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Loyalty's Double Tap](./practice/sql/loyalty-s-double-tap) | SQL | Medium | 2026-10-26 |
 | [Price Check](./practice/sql/price-check) | SQL | Easy | 2026-10-26 |
 | [Everybody Wants a Bigger Screen](./practice/sql/everybody-wants-a-bigger-screen) | SQL | Easy | 2026-10-26 |
 | [Category Revenue](./practice/sql/category-revenue) | SQL | Medium | 2026-10-26 |
