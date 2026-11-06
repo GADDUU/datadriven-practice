@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Shipped to Prod](./practice/sql/shipped-to-prod) | SQL | Easy | 2026-10-25 |
 | [Full Funnel](./practice/sql/full-funnel) | SQL | Hard | 2026-10-25 |
 | [Top Spender](./practice/sql/top-spender) | SQL | Medium | 2026-10-25 |
 | [The Loudest Caller](./practice/sql/the-loudest-caller) | SQL | Easy | 2026-10-25 |
