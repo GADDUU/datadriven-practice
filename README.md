@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Largest A/B Test by Participants](./practice/sql/largest-a-b-test-by-participants) | SQL | Medium | 2026-10-22 |
 | [Who's Looking](./practice/sql/who-s-looking) | SQL | Easy | 2026-10-22 |
 | [Push Opens by Platform and Campaign](./practice/sql/push-opens-by-platform-and-campaign) | SQL | Medium | 2026-10-22 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-22 |
