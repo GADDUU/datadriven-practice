@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Seen](./practice/sql/last-seen) | SQL | Easy | 2026-11-05 |
 | [Platform Team Mobile Flags](./practice/sql/platform-team-mobile-flags) | SQL | Easy | 2026-11-05 |
 | [Targeted Ad Campaigns](./practice/sql/targeted-ad-campaigns) | SQL | Easy | 2026-11-05 |
 | [The Shape of the Year](./practice/sql/the-shape-of-the-year) | SQL | Medium | 2026-11-05 |
