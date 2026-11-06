@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Sirens and Smoke](./practice/sql/sirens-and-smoke) | SQL | Easy | 2026-09-30 |
 | [Top Deployed Model](./practice/sql/top-deployed-model) | SQL | Easy | 2026-09-30 |
 | [Metric Range by Department](./practice/sql/metric-range-by-department) | SQL | Medium | 2026-09-30 |
 | [Successful Production Deploys](./practice/sql/successful-production-deploys) | SQL | Easy | 2026-09-30 |
