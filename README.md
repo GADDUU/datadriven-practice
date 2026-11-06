@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-10-17 |
 | [Beyond the Signup](./practice/sql/beyond-the-signup) | SQL | Medium | 2026-10-16 |
 | [Node Utilization](./practice/sql/node-utilization) | SQL | Hard | 2026-10-16 |
 | [Top Accuracy Model](./practice/sql/top-accuracy-model) | SQL | Medium | 2026-10-16 |
