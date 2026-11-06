@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Users by Recent Spend](./practice/sql/top-users-by-recent-spend) | SQL | Medium | 2026-10-17 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-10-17 |
 | [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-10-17 |
 | [Below the Line](./practice/sql/below-the-line) | SQL | Medium | 2026-10-17 |
