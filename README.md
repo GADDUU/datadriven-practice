@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-10-14 |
 | [The Waiting Room](./practice/sql/the-waiting-room) | SQL | Easy | 2026-10-14 |
 | [Busy Authors](./practice/sql/busy-authors) | SQL | Medium | 2026-10-14 |
 | [The Quiet Middle](./practice/sql/the-quiet-middle) | SQL | Easy | 2026-10-14 |
