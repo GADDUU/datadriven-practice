@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top 2 Busiest API Slots](./practice/sql/top-2-busiest-api-slots) | SQL | Medium | 2026-10-18 |
 | [The Warm Edges](./practice/sql/the-warm-edges) | SQL | Medium | 2026-10-17 |
 | [Splitting the Load](./practice/sql/splitting-the-load) | SQL | Medium | 2026-10-17 |
 | [The Spending Rhythm](./practice/sql/the-spending-rhythm) | SQL | Easy | 2026-10-17 |
