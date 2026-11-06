@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Never-Ordered Products](./practice/sql/never-ordered-products) | SQL | Easy | 2026-10-01 |
 | [Low-Engagement Sessions](./practice/sql/low-engagement-sessions) | SQL | Medium | 2026-10-01 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-10-01 |
 | [Mid-CPU Nodes](./practice/sql/mid-cpu-nodes) | SQL | Easy | 2026-10-01 |
