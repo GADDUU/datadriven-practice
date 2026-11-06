@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-10-23 |
 | [Average Results for Python Searches](./practice/sql/average-results-for-python-searches) | SQL | Medium | 2026-10-23 |
 | [Presence vs. Participation](./practice/sql/presence-vs-participation) | SQL | Medium | 2026-10-23 |
 | [What Fills the Feed](./practice/sql/what-fills-the-feed) | SQL | Medium | 2026-10-23 |
