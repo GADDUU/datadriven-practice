@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Faithful Few](./practice/sql/the-faithful-few) | SQL | Medium | 2026-10-25 |
 | [Left on Read](./practice/sql/left-on-read) | SQL | Medium | 2026-10-25 |
 | [Users With Admin Tokens](./practice/sql/users-with-admin-tokens) | SQL | Medium | 2026-10-25 |
 | [The Noise Floor](./practice/sql/the-noise-floor) | SQL | Medium | 2026-10-23 |
