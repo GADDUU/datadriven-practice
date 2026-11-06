@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Second Highest Value](./practice/sql/second-highest-value) | SQL | Easy | 2026-10-22 |
 | [Early 2026 Data Pipelines](./practice/sql/early-year-data-pipelines) | SQL | Easy | 2026-10-22 |
 | [The Premium Shelf](./practice/sql/the-premium-shelf) | SQL | Medium | 2026-10-22 |
 | [Second Highest Cloud Cost](./practice/sql/second-highest-cloud-cost) | SQL | Medium | 2026-10-22 |
