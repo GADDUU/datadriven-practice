@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Peak Hour Power Callers](./practice/sql/peak-hour-power-callers) | SQL | Medium | 2026-10-21 |
 | [Super Reviewers](./practice/sql/super-reviewers) | SQL | Medium | 2026-10-21 |
 | [Recurring Error Types](./practice/sql/recurring-error-types) | SQL | Easy | 2026-10-21 |
 | [Status Report](./practice/sql/status-report) | SQL | Easy | 2026-10-21 |
