@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top of the Bill](./practice/sql/top-of-the-bill) | SQL | Medium | 2026-11-05 |
 | [The Days That Line Up](./practice/sql/the-days-that-line-up) | SQL | Medium | 2026-11-05 |
 | [Annual Cloud Spend](./practice/sql/annual-cloud-spend) | SQL | Easy | 2026-11-05 |
 | [The Campaign Trail](./practice/sql/the-campaign-trail) | SQL | Easy | 2026-11-05 |
