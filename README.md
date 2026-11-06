@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Still Breathing](./practice/sql/still-breathing) | SQL | Medium | 2026-10-17 |
 | [Name Recognition](./practice/sql/name-recognition) | SQL | Medium | 2026-10-17 |
 | [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-10-17 |
 | [The Ones That Woke Us](./practice/sql/the-ones-that-woke-us) | SQL | Easy | 2026-10-17 |
