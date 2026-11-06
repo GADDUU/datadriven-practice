@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Threads Excluding User](./practice/sql/threads-excluding-user) | SQL | Easy | 2026-10-20 |
 | [Unmatched Categories](./practice/sql/unmatched-categories) | SQL | Easy | 2026-10-20 |
 | [Tables With Many DQ Failures](./practice/sql/tables-with-many-dq-failures) | SQL | Medium | 2026-10-20 |
 | [Low-Volume Stream Topics](./practice/sql/low-volume-stream-topics) | SQL | Medium | 2026-10-20 |
