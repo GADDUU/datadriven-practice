@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Session Logins Dec 13 to 19](./practice/sql/session-logins-dec-13-to-19) | SQL | Easy | 2026-09-30 |
 | [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-09-30 |
 | [Long Searches Containing 'er'](./practice/sql/long-searches-containing-er) | SQL | Easy | 2026-09-30 |
 | [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-09-30 |
