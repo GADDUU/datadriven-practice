@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [What's in a Name](./practice/sql/what-s-in-a-name) | SQL | Easy | 2026-10-17 |
 | [Past the Threshold](./practice/sql/past-the-threshold) | SQL | Medium | 2026-10-17 |
 | [30-Day Page View Counts](./practice/sql/30-day-page-view-counts) | SQL | Easy | 2026-10-17 |
 | [The Row Count Surprise](./practice/sql/the-row-count-surprise) | SQL | Easy | 2026-10-17 |
