@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Highest Throughput Pipelines](./practice/sql/highest-throughput-pipelines) | SQL | Medium | 2026-10-19 |
 | [Active Duo](./practice/sql/active-duo) | SQL | Medium | 2026-10-19 |
 | [Regional Profits](./practice/sql/regional-profits) | SQL | Easy | 2026-10-19 |
 | [The Switchboard](./practice/sql/the-switchboard) | SQL | Medium | 2026-10-19 |
