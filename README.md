@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Rush Hour API Latency](./practice/sql/rush-hour-api-latency) | SQL | Medium | 2026-11-02 |
 | [The Sweet Spot](./practice/sql/the-sweet-spot) | SQL | Medium | 2026-11-02 |
 | [Gone to Ground](./practice/sql/gone-to-ground) | SQL | Medium | 2026-11-02 |
 | [First and Last Timeout Per Service](./practice/sql/first-and-last-timeout-per-service) | SQL | Medium | 2026-11-02 |
