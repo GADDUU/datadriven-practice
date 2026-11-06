@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Node Utilization](./practice/sql/node-utilization) | SQL | Hard | 2026-10-16 |
 | [Top Accuracy Model](./practice/sql/top-accuracy-model) | SQL | Medium | 2026-10-16 |
 | [Completion Rate](./practice/sql/completion-rate) | SQL | Medium | 2026-10-16 |
 | [Three-Value Sum Combinations](./practice/sql/three-value-sum-combinations) | SQL | Medium | 2026-10-16 |
