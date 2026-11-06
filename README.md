@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-10-02 |
 | [What the Shelf Never Sold](./practice/sql/what-the-shelf-never-sold) | SQL | Medium | 2026-10-02 |
 | [Non-Trivial Fatal Errors](./practice/sql/non-trivial-fatal-errors) | SQL | Medium | 2026-10-02 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-10-02 |
