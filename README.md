@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Second Highest Salary](./practice/sql/second-highest-salary) | SQL | Easy | 2026-11-05 |
 | [Satisfaction by Platform](./practice/sql/satisfaction-by-platform) | SQL | Medium | 2026-11-05 |
 | [Annual Pipeline Failures](./practice/sql/annual-pipeline-failures) | SQL | Easy | 2026-11-05 |
 | [Services With Most Error Occurrences](./practice/sql/services-with-most-error-occurrences) | SQL | Easy | 2026-11-05 |
