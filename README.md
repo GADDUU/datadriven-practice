@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Pairwise Latency Maximum](./practice/sql/pairwise-latency-maximum) | SQL | Medium | 2026-10-19 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-10-19 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-10-19 |
 | [Read the Manual](./practice/sql/read-the-manual) | SQL | Easy | 2026-10-18 |
