@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Accuracy by Framework](./practice/sql/average-accuracy-by-framework) | SQL | Medium | 2026-10-09 |
 | [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-10-08 |
 | [Services at Median Uptime](./practice/sql/services-at-median-uptime) | SQL | Medium | 2026-10-08 |
 | [Duplicated User Event Messages](./practice/sql/duplicated-user-event-messages) | SQL | Medium | 2026-10-07 |
