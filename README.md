@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Selling Where Nobody Lives](./practice/sql/selling-where-nobody-lives) | SQL | Medium | 2026-10-15 |
 | [Top Per Category](./practice/sql/top-per-category) | SQL | Hard | 2026-10-15 |
 | [The Dormant Accounts](./practice/sql/the-dormant-accounts) | SQL | Easy | 2026-10-15 |
 | [All Known Endpoints](./practice/sql/all-known-endpoints) | SQL | Medium | 2026-10-15 |
