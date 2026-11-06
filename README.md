@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones Who Return](./practice/sql/the-ones-who-return) | SQL | Medium | 2026-11-01 |
 | [The Opening Run](./practice/sql/the-opening-run) | SQL | Easy | 2026-11-01 |
 | [Many Eyes](./practice/sql/many-eyes) | SQL | Medium | 2026-11-01 |
 | [Users Without Sessions](./practice/sql/users-without-sessions) | SQL | Medium | 2026-11-01 |
