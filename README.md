@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where the Heat Pools](./practice/sql/where-the-heat-pools) | SQL | Easy | 2026-10-21 |
 | [Flag Check](./practice/sql/flag-check) | SQL | Easy | 2026-10-21 |
 | [Log Entries by Level](./practice/sql/log-entries-by-level) | SQL | Easy | 2026-10-21 |
 | [Yearly Output](./practice/sql/yearly-output) | SQL | Easy | 2026-10-21 |
