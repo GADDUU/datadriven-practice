@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Searches by Users With Email](./practice/sql/searches-by-users-with-email) | SQL | Easy | 2026-10-21 |
 | [Transaction Timeline](./practice/sql/transaction-timeline) | SQL | Medium | 2026-10-21 |
 | [Department Spend Gap](./practice/sql/department-spend-gap) | SQL | Easy | 2026-10-21 |
 | [Session Pulse](./practice/sql/session-pulse) | SQL | Easy | 2026-10-21 |
