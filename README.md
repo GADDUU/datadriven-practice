@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Weight of a Verdict](./practice/sql/the-weight-of-a-verdict) | SQL | Easy | 2026-10-25 |
 | [Top Device by Sessions](./practice/sql/top-device-by-sessions) | SQL | Easy | 2026-10-25 |
 | [Shipped to Prod](./practice/sql/shipped-to-prod) | SQL | Easy | 2026-10-25 |
 | [Full Funnel](./practice/sql/full-funnel) | SQL | Hard | 2026-10-25 |
