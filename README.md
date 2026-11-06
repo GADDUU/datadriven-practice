@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Perennials](./practice/sql/the-perennials) | SQL | Easy | 2026-10-20 |
 | [Unique Visitors](./practice/sql/unique-visitors) | SQL | Easy | 2026-10-20 |
 | [Monthly Active Users per Endpoint](./practice/sql/monthly-active-users-per-endpoint) | SQL | Easy | 2026-10-20 |
 | [Thirty Days of Shipping](./practice/sql/thirty-days-of-shipping) | SQL | Easy | 2026-10-20 |
