@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Spender Leaderboard](./practice/sql/the-spender-leaderboard) | SQL | Easy | 2026-11-05 |
 | [This Year's Class](./practice/sql/this-year-s-class) | SQL | Easy | 2026-11-05 |
 | [Did Anyone Actually Read It?](./practice/sql/did-anyone-actually-read-it) | SQL | Easy | 2026-11-04 |
 | [User Sessions on Specific Days](./practice/sql/user-sessions-on-specific-days) | SQL | Easy | 2026-11-04 |
