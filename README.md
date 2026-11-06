@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Storage Node Lookup](./practice/sql/storage-node-lookup) | SQL | Easy | 2026-10-26 |
 | [Ad Revenue 2026](./practice/sql/ad-revenue-year) | SQL | Easy | 2026-10-25 |
 | [The Weight of a Verdict](./practice/sql/the-weight-of-a-verdict) | SQL | Easy | 2026-10-25 |
 | [Top Device by Sessions](./practice/sql/top-device-by-sessions) | SQL | Easy | 2026-10-25 |
