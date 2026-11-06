@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Holiday Promo Campaign Click Year](./practice/sql/holiday-promo-campaign-click-year) | SQL | Easy | 2026-10-23 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [Repeat Offenders of the Search Bar](./practice/sql/repeat-offenders-of-the-search-bar) | SQL | Easy | 2026-10-22 |
 | [Ship It or Skip It](./practice/sql/ship-it-or-skip-it) | SQL | Easy | 2026-10-22 |
