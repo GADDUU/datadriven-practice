@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Still Standing](./practice/sql/still-standing) | SQL | Medium | 2026-10-13 |
 | [Build Success vs Failure by Repo](./practice/sql/build-success-vs-failure-by-repo) | SQL | Medium | 2026-10-13 |
 | [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-10-12 |
 | [Platform Speed](./practice/sql/platform-speed) | SQL | Medium | 2026-10-12 |
