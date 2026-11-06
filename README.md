@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Department Snapshot](./practice/sql/department-snapshot) | SQL | Medium | 2026-11-05 |
 | [The Quiet Alarms](./practice/sql/the-quiet-alarms) | SQL | Medium | 2026-11-05 |
 | [Product Revenue Ranking](./practice/sql/product-revenue-ranking) | SQL | Easy | 2026-11-05 |
 | [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-11-05 |
