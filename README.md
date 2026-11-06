@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Unclicked Searches by Campaign](./practice/sql/unclicked-searches-by-campaign) | SQL | Medium | 2026-11-06 |
 | [Top Shelf](./practice/sql/top-shelf) | SQL | Easy | 2026-11-06 |
 | [Friday Spending Analysis](./practice/sql/friday-spending-analysis) | SQL | Hard | 2026-11-06 |
 | [Average Sessions Per User](./practice/sql/average-sessions-per-user) | SQL | Hard | 2026-11-06 |
