@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Twice Over](./practice/sql/twice-over) | SQL | Medium | 2026-10-22 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-10-22 |
 | [Whale Watch](./practice/sql/whale-watch) | SQL | Easy | 2026-10-22 |
 | [Frequent Message Senders](./practice/sql/frequent-message-senders) | SQL | Medium | 2026-10-22 |
