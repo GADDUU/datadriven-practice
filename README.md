@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tables With Many DQ Failures](./practice/sql/tables-with-many-dq-failures) | SQL | Medium | 2026-10-20 |
 | [Low-Volume Stream Topics](./practice/sql/low-volume-stream-topics) | SQL | Medium | 2026-10-20 |
 | [Models With Variable Accuracy](./practice/sql/models-with-variable-accuracy) | SQL | Medium | 2026-10-20 |
 | [Deploy Cadence](./practice/sql/deploy-cadence) | SQL | Easy | 2026-10-20 |
