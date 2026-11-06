@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Content Viewer Penetration](./practice/sql/content-viewer-penetration) | SQL | Easy | 2026-10-22 |
 | [Every Door They Opened](./practice/sql/every-door-they-opened) | SQL | Easy | 2026-10-22 |
 | [Twice Over](./practice/sql/twice-over) | SQL | Medium | 2026-10-22 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-10-22 |
