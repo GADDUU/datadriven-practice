@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Transaction Overview](./practice/sql/transaction-overview) | SQL | Easy | 2026-10-19 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-10-19 |
 | [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-10-19 |
 | [The Loudest Signals](./practice/sql/the-loudest-signals) | SQL | Easy | 2026-10-19 |
