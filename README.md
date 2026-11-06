@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Shared Endpoints](./practice/sql/shared-endpoints) | SQL | Medium | 2026-10-20 |
 | [Users Who Clicked Ads](./practice/sql/users-who-clicked-ads) | SQL | Easy | 2026-10-20 |
 | [Users With API Errors](./practice/sql/users-with-api-errors) | SQL | Medium | 2026-10-20 |
 | [Threads Excluding User](./practice/sql/threads-excluding-user) | SQL | Easy | 2026-10-20 |
