@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Who Comes Early](./practice/sql/who-comes-early) | SQL | Easy | 2026-10-10 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-09 |
 | [Average Accuracy by Framework](./practice/sql/average-accuracy-by-framework) | SQL | Medium | 2026-10-09 |
 | [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-10-08 |
