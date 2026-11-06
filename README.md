@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tables With Most DQ Failures](./practice/sql/tables-with-most-dq-failures) | SQL | Medium | 2026-10-21 |
 | [Average API Latency by Year](./practice/sql/average-api-latency-by-year) | SQL | Medium | 2026-10-21 |
 | [Top Region by Order Volume](./practice/sql/top-region-by-order-volume) | SQL | Medium | 2026-10-21 |
 | [Successful Pipeline Runs](./practice/sql/successful-pipeline-runs) | SQL | Easy | 2026-10-21 |
