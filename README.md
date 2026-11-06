@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Non-Draft Content](./practice/sql/non-draft-content) | SQL | Easy | 2026-11-05 |
 | [Features With Missing Values](./practice/sql/features-with-missing-values) | SQL | Easy | 2026-11-05 |
 | [Views by Specific Users](./practice/sql/views-by-specific-users) | SQL | Easy | 2026-11-05 |
 | [Last Seen](./practice/sql/last-seen) | SQL | Easy | 2026-11-05 |
