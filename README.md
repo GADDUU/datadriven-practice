@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top 3 Revenue Months](./practice/sql/top-3-revenue-months) | SQL | Medium | 2026-11-05 |
 | [Power Users by Session Activity](./practice/sql/power-users-by-session-activity) | SQL | Medium | 2026-11-05 |
 | [The Ides of March](./practice/sql/the-ides-of-march) | SQL | Medium | 2026-11-05 |
 | [Both Arms of the Trial](./practice/sql/both-arms-of-the-trial) | SQL | Easy | 2026-11-05 |
