@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Unmatched Deploy Services](./practice/sql/unmatched-deploy-services) | SQL | Medium | 2026-10-04 |
 | [CPU Utilization Summary](./practice/sql/cpu-utilization-summary) | SQL | Easy | 2026-10-04 |
 | [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
 | [Search Endpoint Status Distribution](./practice/sql/search-endpoint-status-distribution) | SQL | Easy | 2026-10-02 |
