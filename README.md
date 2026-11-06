@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Titles Ending With S](./practice/sql/titles-ending-with-s) | SQL | Easy | 2026-10-01 |
 | [Unique Stream Topics](./practice/sql/unique-stream-topics) | SQL | Easy | 2026-10-01 |
 | [Ghosts in the Scheduler](./practice/sql/ghosts-in-the-scheduler) | SQL | Easy | 2026-10-01 |
 | [Last Server Activity](./practice/sql/last-server-activity) | SQL | Easy | 2026-10-01 |
