@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Mid-CPU Nodes](./practice/sql/mid-cpu-nodes) | SQL | Easy | 2026-10-01 |
 | [User Session Roster](./practice/sql/user-session-roster) | SQL | Easy | 2026-10-01 |
 | [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-10-01 |
 | [Retargeting Campaign Impressions](./practice/sql/retargeting-campaign-impressions) | SQL | Easy | 2026-10-01 |
