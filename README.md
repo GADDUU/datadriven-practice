@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Heavy Namespaces](./practice/sql/heavy-namespaces) | SQL | Medium | 2026-10-19 |
 | [Popular Categories](./practice/sql/popular-categories) | SQL | Easy | 2026-10-19 |
 | [Click Revenue](./practice/sql/click-revenue) | SQL | Easy | 2026-10-19 |
 | [Transaction Overview](./practice/sql/transaction-overview) | SQL | Easy | 2026-10-19 |
