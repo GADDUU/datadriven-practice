@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bottom 2% Services by Spend](./practice/sql/bottom-2-services-by-spend) | SQL | Hard | 2026-11-01 |
 | [Allocations in Top Spending Region](./practice/sql/allocations-in-top-spending-region) | SQL | Hard | 2026-11-01 |
 | [Tenure Mentorship Match](./practice/sql/tenure-mentorship-match) | SQL | Medium | 2026-10-31 |
 | [What Never Arrives](./practice/sql/what-never-arrives) | SQL | Easy | 2026-10-30 |
