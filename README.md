@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where The Rows Go](./practice/sql/where-the-rows-go) | SQL | Easy | 2026-10-26 |
 | [Unreviewed Models](./practice/sql/unreviewed-models) | SQL | Easy | 2026-10-26 |
 | [Service Scorecard](./practice/sql/service-scorecard) | SQL | Hard | 2026-10-26 |
 | [Three Clouds](./practice/sql/three-clouds) | SQL | Easy | 2026-10-26 |
