@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top 2 Active Push Days](./practice/sql/top-2-active-push-days) | SQL | Medium | 2026-10-22 |
 | [The Ones Who Carry Us](./practice/sql/the-ones-who-carry-us) | SQL | Easy | 2026-10-22 |
 | [Second Highest Value](./practice/sql/second-highest-value) | SQL | Easy | 2026-10-22 |
 | [Early 2026 Data Pipelines](./practice/sql/early-year-data-pipelines) | SQL | Easy | 2026-10-22 |
