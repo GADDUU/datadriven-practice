@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Between the Spaces](./practice/sql/between-the-spaces) | SQL | Medium | 2026-09-29 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-09-29 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-09-29 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-09-29 |
