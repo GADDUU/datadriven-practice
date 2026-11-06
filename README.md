@@ -17,6 +17,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [The Ones Who Finish](./practice/sql/the-ones-who-finish) | SQL | Medium | 2026-09-30 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-09-29 |
 | [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-09-29 |
+| [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-09-29 |
 | [Trim Search Terms Left](./practice/sql/trim-search-terms-left) | SQL | Easy | 2026-09-29 |
 | [Product Name Letter Replace](./practice/sql/product-name-letter-replace) | SQL | Easy | 2026-09-29 |
 | [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-09-29 |

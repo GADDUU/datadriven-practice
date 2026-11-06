@@ -1,0 +1,4 @@
+SELECT DISTINCT category
+FROM products
+WHERE price BETWEEN 90 AND 200
+ORDER BY category ASC;
