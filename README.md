@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-22 |
 | [Single Service Owners](./practice/sql/single-service-owners) | SQL | Medium | 2026-10-22 |
 | [Top 2 Active Push Days](./practice/sql/top-2-active-push-days) | SQL | Medium | 2026-10-22 |
 | [The Ones Who Carry Us](./practice/sql/the-ones-who-carry-us) | SQL | Easy | 2026-10-22 |
