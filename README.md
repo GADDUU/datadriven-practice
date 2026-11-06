@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Disabled Feature Flags](./practice/sql/disabled-feature-flags) | SQL | Easy | 2026-09-27 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-09-27 |
 | [Even-ID June Signups](./practice/sql/even-id-june-signups) | SQL | Easy | 2026-09-26 |
 | [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Easy | 2026-09-25 |
