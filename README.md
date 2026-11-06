@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Kings of the Aisle](./practice/sql/kings-of-the-aisle) | SQL | Medium | 2026-10-14 |
 | [The Longest Take](./practice/sql/the-longest-take) | SQL | Easy | 2026-10-14 |
 | [Errors With Service Health](./practice/sql/errors-with-service-health) | SQL | Easy | 2026-10-14 |
 | [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-10-14 |
