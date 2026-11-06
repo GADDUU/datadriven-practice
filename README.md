@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total Compute Cloud Cost](./practice/sql/total-compute-cloud-cost) | SQL | Easy | 2026-11-06 |
 | [Health Checks per Service](./practice/sql/health-checks-per-service) | SQL | Easy | 2026-11-06 |
 | [Clicked Ad Impressions](./practice/sql/clicked-ad-impressions) | SQL | Easy | 2026-11-06 |
 | [Slow Production Deploys](./practice/sql/slow-production-deploys) | SQL | Easy | 2026-11-06 |
