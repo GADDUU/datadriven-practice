@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Heaviest Hitters](./practice/sql/the-heaviest-hitters) | SQL | Easy | 2026-10-01 |
 | [The Elite](./practice/sql/the-elite) | SQL | Easy | 2026-10-01 |
 | [Profit Tiers](./practice/sql/profit-tiers) | SQL | Medium | 2026-10-01 |
 | [Content by Specific Users](./practice/sql/content-by-specific-users) | SQL | Easy | 2026-10-01 |
