@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Watch Time by Format](./practice/sql/average-watch-time-by-format) | SQL | Medium | 2026-11-04 |
 | [Net Lines](./practice/sql/net-lines) | SQL | Medium | 2026-11-04 |
 | [Power Users](./practice/sql/power-users) | SQL | Medium | 2026-11-04 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
