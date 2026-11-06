@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Noisy Endpoints](./practice/sql/noisy-endpoints) | SQL | Medium | 2026-10-19 |
 | [Heavy Namespaces](./practice/sql/heavy-namespaces) | SQL | Medium | 2026-10-19 |
 | [Popular Categories](./practice/sql/popular-categories) | SQL | Easy | 2026-10-19 |
 | [Click Revenue](./practice/sql/click-revenue) | SQL | Easy | 2026-10-19 |
