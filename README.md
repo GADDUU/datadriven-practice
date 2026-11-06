@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Middle of the Missing](./practice/sql/the-middle-of-the-missing) | SQL | Medium | 2026-10-28 |
 | [Where the Money Goes](./practice/sql/where-the-money-goes) | SQL | Hard | 2026-10-28 |
 | [Stock Status](./practice/sql/stock-status) | SQL | Easy | 2026-10-28 |
 | [First Migration Record](./practice/sql/first-migration-record) | SQL | Easy | 2026-10-27 |
