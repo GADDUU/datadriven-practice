@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Category Revenue](./practice/sql/category-revenue) | SQL | Medium | 2026-10-26 |
 | [Top API Caller](./practice/sql/top-api-caller) | SQL | Medium | 2026-10-26 |
 | [The Green Light](./practice/sql/the-green-light) | SQL | Easy | 2026-10-26 |
 | [Where The Rows Go](./practice/sql/where-the-rows-go) | SQL | Easy | 2026-10-26 |
