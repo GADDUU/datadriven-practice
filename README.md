@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Build Success Rate by Trigger](./practice/sql/build-success-rate-by-trigger) | SQL | Medium | 2026-10-23 |
 | [Where the Money Sits](./practice/sql/where-the-money-sits) | SQL | Medium | 2026-10-23 |
 | [Service Reliability Tiers](./practice/sql/service-reliability-tiers) | SQL | Medium | 2026-10-23 |
 | [API Calls With and Without Errors](./practice/sql/api-calls-with-and-without-errors) | SQL | Medium | 2026-10-23 |
