@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [User Devices](./practice/sql/user-devices) | SQL | Medium | 2026-10-21 |
 | [Mobile Event Counts](./practice/sql/mobile-event-counts) | SQL | Easy | 2026-10-21 |
 | [Log Levels](./practice/sql/log-levels) | SQL | Easy | 2026-10-20 |
 | [Prime Real Estate](./practice/sql/prime-real-estate) | SQL | Easy | 2026-10-20 |
