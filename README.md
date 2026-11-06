@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Profit Tiers](./practice/sql/profit-tiers) | SQL | Medium | 2026-10-01 |
 | [Content by Specific Users](./practice/sql/content-by-specific-users) | SQL | Easy | 2026-10-01 |
 | [Auth Endpoints](./practice/sql/auth-endpoints) | SQL | Easy | 2026-10-01 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-10-01 |
