@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Activity Histogram](./practice/sql/activity-histogram) | SQL | Easy | 2026-11-03 |
 | [Symmetric Reply Network](./practice/sql/symmetric-reply-network) | SQL | Medium | 2026-11-03 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-03 |
 | [The Silent Probe](./practice/sql/the-silent-probe) | SQL | Easy | 2026-11-03 |
