@@ -1,6 +1,6 @@
 # Top Cost Categories
 
-*Three categories eating the budget.*
+*3 categories eating the budget.*
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/top_cost_categories)
 
