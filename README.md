@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Named Transaction](./practice/sql/the-named-transaction) | SQL | Easy | 2026-11-07 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-11-07 |
 | [The Upper Rungs](./practice/sql/the-upper-rungs) | SQL | Easy | 2026-11-07 |
 | [Metric Range Per Group](./practice/sql/metric-range-per-group) | SQL | Easy | 2026-11-07 |
