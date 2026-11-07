@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Merit Circle](./practice/sql/the-merit-circle) | SQL | Medium | 2026-11-07 |
 | [Top Alert Resolvers](./practice/sql/top-alert-resolvers) | SQL | Medium | 2026-11-07 |
 | [Seen or Ignored](./practice/sql/seen-or-ignored) | SQL | Medium | 2026-11-07 |
 | [Deployments per Environment](./practice/sql/deployments-per-environment) | SQL | Medium | 2026-11-07 |
