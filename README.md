@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-07 |
 | [Content Page Spreads](./practice/sql/content-page-spreads) | SQL | Hard | 2026-11-07 |
 | [The Named Transaction](./practice/sql/the-named-transaction) | SQL | Easy | 2026-11-07 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-11-07 |
