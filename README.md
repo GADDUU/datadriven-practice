@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Higher Than Supervisor](./practice/sql/higher-than-supervisor) | SQL | Easy | 2026-11-07 |
 | [Higher Performing Variant](./practice/sql/higher-performing-variant) | SQL | Easy | 2026-11-07 |
 | [Follow the Money](./practice/sql/follow-the-money) | SQL | Easy | 2026-11-07 |
 | [Content Page Spreads](./practice/sql/content-page-spreads) | SQL | Hard | 2026-11-07 |
