@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Fast Lane](./practice/sql/the-fast-lane) | SQL | Medium | 2026-11-07 |
 | [The Vanishing Rows](./practice/sql/the-vanishing-rows) | SQL | Easy | 2026-11-07 |
 | [Users Without Purchases](./practice/sql/users-without-purchases) | SQL | Medium | 2026-11-07 |
 | [No Gaps](./practice/sql/no-gaps) | SQL | Easy | 2026-11-07 |
