@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users Without Purchases](./practice/sql/users-without-purchases) | SQL | Medium | 2026-11-07 |
 | [No Gaps](./practice/sql/no-gaps) | SQL | Easy | 2026-11-07 |
 | [Error Hall of Fame](./practice/sql/error-hall-of-fame) | SQL | Medium | 2026-11-07 |
 | [The Merit Circle](./practice/sql/the-merit-circle) | SQL | Medium | 2026-11-07 |
