@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Alert Resolvers](./practice/sql/top-alert-resolvers) | SQL | Medium | 2026-11-07 |
 | [Seen or Ignored](./practice/sql/seen-or-ignored) | SQL | Medium | 2026-11-07 |
 | [Deployments per Environment](./practice/sql/deployments-per-environment) | SQL | Medium | 2026-11-07 |
 | [Low Severity DQ Checks](./practice/sql/low-severity-dq-checks) | SQL | Easy | 2026-11-06 |
