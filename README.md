@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Metric Range Per Group](./practice/sql/metric-range-per-group) | SQL | Easy | 2026-11-07 |
 | [Balance of Arms](./practice/sql/balance-of-arms) | SQL | Hard | 2026-11-07 |
 | [The Fast Lane](./practice/sql/the-fast-lane) | SQL | Medium | 2026-11-07 |
 | [The Vanishing Rows](./practice/sql/the-vanishing-rows) | SQL | Easy | 2026-11-07 |
