@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [Cheapest CDN Route](./practice/sql/cheapest-cdn-route) | SQL | Easy | 2026-11-07 |
 | [Higher Than Supervisor](./practice/sql/higher-than-supervisor) | SQL | Easy | 2026-11-07 |
 | [Higher Performing Variant](./practice/sql/higher-performing-variant) | SQL | Easy | 2026-11-07 |
