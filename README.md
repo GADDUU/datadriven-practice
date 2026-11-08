@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Feature Flag Adoption](./practice/sql/feature-flag-adoption) | SQL | Medium | 2026-11-08 |
 | [Lowest Latency per Service](./practice/sql/lowest-latency-per-service) | SQL | Medium | 2026-11-08 |
 | [Nodes by Region and Type](./practice/sql/nodes-by-region-and-type) | SQL | Medium | 2026-11-08 |
 | [Product Transaction Counts](./practice/sql/product-transaction-counts) | SQL | Medium | 2026-11-08 |
