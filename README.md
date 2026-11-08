@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Product Transaction Counts](./practice/sql/product-transaction-counts) | SQL | Medium | 2026-11-08 |
 | [Average Spending by Account Status](./practice/sql/average-spending-by-account-status) | SQL | Medium | 2026-11-08 |
 | [The Footprint](./practice/sql/the-footprint) | SQL | Medium | 2026-11-08 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
