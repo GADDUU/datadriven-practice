@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Largest Single Cloud Cost](./practice/sql/largest-single-cloud-cost) | SQL | Medium | 2026-11-08 |
 | [Server With Most Errors](./practice/sql/server-with-most-errors) | SQL | Medium | 2026-11-08 |
 | [Feature Flag Adoption](./practice/sql/feature-flag-adoption) | SQL | Medium | 2026-11-08 |
 | [Lowest Latency per Service](./practice/sql/lowest-latency-per-service) | SQL | Medium | 2026-11-08 |
