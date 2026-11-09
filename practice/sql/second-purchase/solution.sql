@@ -1,19 +1,14 @@
-WITH ranked_transactions AS (
+SELECT
+  user_id,
+  total_amount,
+  transaction_date
+FROM (
   SELECT
     user_id,
     total_amount,
     transaction_date,
-    ROW_NUMBER() OVER (
-      PARTITION BY user_id
-      ORDER BY transaction_date
-    ) AS trans_rank
+    ROW_NUMBER() OVER(PARTITION BY user_id ORDER BY transaction_date ASC) AS rnk
   FROM transactions
 )
-
-SELECT
-  user_id,
-  total_amount,
-  transaction_date AS second_purchase_date
-FROM ranked_transactions
-WHERE trans_rank = 2
-ORDER BY second_purchase_date
+WHERE rnk = 2
+ORDER BY user_id
