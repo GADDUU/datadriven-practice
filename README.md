@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Search Results Per User](./practice/sql/average-search-results-per-user) | SQL | Easy | 2026-11-09 |
 | [The Tiebreaker](./practice/sql/the-tiebreaker) | SQL | Easy | 2026-11-09 |
 | [Where the Exports Land](./practice/sql/where-the-exports-land) | SQL | Easy | 2026-11-09 |
 | [Compute Nodes in Key Regions](./practice/sql/compute-nodes-in-key-regions) | SQL | Easy | 2026-11-09 |
