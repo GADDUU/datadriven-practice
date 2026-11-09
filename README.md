@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Latency by Status](./practice/sql/average-latency-by-status) | SQL | Easy | 2026-11-09 |
 | [Not From Around Here](./practice/sql/not-from-around-here) | SQL | Easy | 2026-11-09 |
 | [Sessions Per Device Type](./practice/sql/sessions-per-device-type) | SQL | Easy | 2026-11-09 |
 | [Most Frequent Error Types](./practice/sql/most-frequent-error-types) | SQL | Medium | 2026-11-08 |
