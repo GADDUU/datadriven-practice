@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Sessions Per Device Type](./practice/sql/sessions-per-device-type) | SQL | Easy | 2026-11-09 |
 | [Most Frequent Error Types](./practice/sql/most-frequent-error-types) | SQL | Medium | 2026-11-08 |
 | [Largest Single Cloud Cost](./practice/sql/largest-single-cloud-cost) | SQL | Medium | 2026-11-08 |
 | [Server With Most Errors](./practice/sql/server-with-most-errors) | SQL | Medium | 2026-11-08 |
