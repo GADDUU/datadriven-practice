@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Bargain Bin](./practice/sql/bargain-bin) | SQL | Easy | 2026-11-09 |
 | [Platform Check](./practice/sql/platform-check) | SQL | Easy | 2026-11-09 |
 | [Average Latency by Status](./practice/sql/average-latency-by-status) | SQL | Easy | 2026-11-09 |
 | [Not From Around Here](./practice/sql/not-from-around-here) | SQL | Easy | 2026-11-09 |
