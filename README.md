@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Compute Nodes in Key Regions](./practice/sql/compute-nodes-in-key-regions) | SQL | Easy | 2026-11-09 |
 | [Top Ad Campaigns by Revenue](./practice/sql/top-ad-campaigns-by-revenue) | SQL | Easy | 2026-11-09 |
 | [Bargain Bin](./practice/sql/bargain-bin) | SQL | Easy | 2026-11-09 |
 | [Platform Check](./practice/sql/platform-check) | SQL | Easy | 2026-11-09 |
