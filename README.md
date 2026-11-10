@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [View Count Per Page](./practice/sql/view-count-per-page) | SQL | Easy | 2026-11-10 |
 | [Low Uptime Services](./practice/sql/low-uptime-services) | SQL | Easy | 2026-11-10 |
 | [Average Node Utilization](./practice/sql/average-node-utilization) | SQL | Easy | 2026-11-10 |
 | [The First Half](./practice/sql/the-first-half) | SQL | Easy | 2026-11-10 |
