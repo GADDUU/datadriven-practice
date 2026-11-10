@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Node Utilization](./practice/sql/average-node-utilization) | SQL | Easy | 2026-11-10 |
 | [The First Half](./practice/sql/the-first-half) | SQL | Easy | 2026-11-10 |
 | [Average Rating by Category](./practice/sql/average-rating-by-category) | SQL | Easy | 2026-11-10 |
 | [Low-Byte CDN Responses](./practice/sql/low-byte-cdn-responses) | SQL | Easy | 2026-11-10 |
