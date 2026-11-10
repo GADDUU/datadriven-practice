@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Noisiest Tables by DQ Failures](./practice/sql/noisiest-tables-by-dq-failures) | SQL | Medium | 2026-11-10 |
 | [Content Duration Snapshot](./practice/sql/content-duration-snapshot) | SQL | Easy | 2026-11-10 |
 | [CDN Image Request Paths](./practice/sql/cdn-image-request-paths) | SQL | Easy | 2026-11-10 |
 | [The Runs That Never Ended](./practice/sql/the-runs-that-never-ended) | SQL | Medium | 2026-11-10 |
