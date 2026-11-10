@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [CDN Image Request Paths](./practice/sql/cdn-image-request-paths) | SQL | Easy | 2026-11-10 |
 | [The Runs That Never Ended](./practice/sql/the-runs-that-never-ended) | SQL | Medium | 2026-11-10 |
 | [Purchase Log](./practice/sql/purchase-log) | SQL | Easy | 2026-11-10 |
 | [First Build per Repository](./practice/sql/first-build-per-repository) | SQL | Easy | 2026-11-10 |
