@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Search Endpoint Latency](./practice/sql/average-search-endpoint-latency) | SQL | Easy | 2026-11-10 |
 | [The Vital Signs](./practice/sql/the-vital-signs) | SQL | Easy | 2026-11-10 |
 | [Average Build Duration by Repo](./practice/sql/average-build-duration-by-repo) | SQL | Easy | 2026-11-10 |
 | [Welcome Wagon](./practice/sql/welcome-wagon) | SQL | Easy | 2026-11-10 |
