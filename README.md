@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Slow Failures](./practice/sql/slow-failures) | SQL | Easy | 2026-11-10 |
 | [The Ad Ledger](./practice/sql/the-ad-ledger) | SQL | Easy | 2026-11-10 |
 | [View Count Per Page](./practice/sql/view-count-per-page) | SQL | Easy | 2026-11-10 |
 | [Low Uptime Services](./practice/sql/low-uptime-services) | SQL | Easy | 2026-11-10 |
