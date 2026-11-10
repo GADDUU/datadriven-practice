@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where The Lights Stay On](./practice/sql/where-the-lights-stay-on) | SQL | Medium | 2026-11-10 |
 | [Signups by Age Bucket Since April](./practice/sql/signups-by-age-bucket-since-april) | SQL | Easy | 2026-11-10 |
 | [Average Search Endpoint Latency](./practice/sql/average-search-endpoint-latency) | SQL | Easy | 2026-11-10 |
 | [The Vital Signs](./practice/sql/the-vital-signs) | SQL | Easy | 2026-11-10 |
