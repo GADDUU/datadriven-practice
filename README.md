@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Vital Signs](./practice/sql/the-vital-signs) | SQL | Easy | 2026-11-10 |
 | [Average Build Duration by Repo](./practice/sql/average-build-duration-by-repo) | SQL | Easy | 2026-11-10 |
 | [Welcome Wagon](./practice/sql/welcome-wagon) | SQL | Easy | 2026-11-10 |
 | [Campaign Revenue Totals](./practice/sql/campaign-revenue-totals) | SQL | Easy | 2026-11-10 |
