@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Gateway Connection Timeouts](./practice/sql/gateway-connection-timeouts) | SQL | Easy | 2026-11-10 |
 | [Roll Call](./practice/sql/roll-call) | SQL | Easy | 2026-11-10 |
 | [Average Search Results Per User](./practice/sql/average-search-results-per-user) | SQL | Easy | 2026-11-09 |
 | [The Tiebreaker](./practice/sql/the-tiebreaker) | SQL | Easy | 2026-11-09 |
