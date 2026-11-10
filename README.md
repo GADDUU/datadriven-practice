@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Low-Byte CDN Responses](./practice/sql/low-byte-cdn-responses) | SQL | Easy | 2026-11-10 |
 | [Reviews Per Reviewer](./practice/sql/reviews-per-reviewer) | SQL | Easy | 2026-11-10 |
 | [Low Latency API Calls](./practice/sql/low-latency-api-calls) | SQL | Easy | 2026-11-10 |
 | [Total User Spend](./practice/sql/total-user-spend) | SQL | Easy | 2026-11-10 |
