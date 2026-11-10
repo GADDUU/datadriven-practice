@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cloud Cost by Team](./practice/sql/cloud-cost-by-team) | SQL | Easy | 2026-11-10 |
 | [Green Lights on the Order Line](./practice/sql/green-lights-on-the-order-line) | SQL | Easy | 2026-11-10 |
 | [Metric Trend by Department](./practice/sql/metric-trend-by-department) | SQL | Easy | 2026-11-10 |
 | [Slow Failures](./practice/sql/slow-failures) | SQL | Easy | 2026-11-10 |
