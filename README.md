@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Unused Read Tokens](./practice/sql/unused-read-tokens) | SQL | Easy | 2026-11-10 |
 | [Where the Money Pools](./practice/sql/where-the-money-pools) | SQL | Medium | 2026-11-10 |
 | [Timeout Status Records](./practice/sql/timeout-status-records) | SQL | Easy | 2026-11-10 |
 | [Where The Lights Stay On](./practice/sql/where-the-lights-stay-on) | SQL | Medium | 2026-11-10 |
