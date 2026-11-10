@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Low Latency API Calls](./practice/sql/low-latency-api-calls) | SQL | Easy | 2026-11-10 |
 | [Total User Spend](./practice/sql/total-user-spend) | SQL | Easy | 2026-11-10 |
 | [Messages Containing Keyword](./practice/sql/messages-containing-keyword) | SQL | Easy | 2026-11-10 |
 | [The Ones Who Hold Attention](./practice/sql/the-ones-who-hold-attention) | SQL | Medium | 2026-11-10 |
