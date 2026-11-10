@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Campaign Revenue Totals](./practice/sql/campaign-revenue-totals) | SQL | Easy | 2026-11-10 |
 | [Q2 Search Volume](./practice/sql/q2-search-volume) | SQL | Easy | 2026-11-10 |
 | [Cloud Cost by Team](./practice/sql/cloud-cost-by-team) | SQL | Easy | 2026-11-10 |
 | [Green Lights on the Order Line](./practice/sql/green-lights-on-the-order-line) | SQL | Easy | 2026-11-10 |
