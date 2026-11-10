@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The First Half](./practice/sql/the-first-half) | SQL | Easy | 2026-11-10 |
 | [Average Rating by Category](./practice/sql/average-rating-by-category) | SQL | Easy | 2026-11-10 |
 | [Low-Byte CDN Responses](./practice/sql/low-byte-cdn-responses) | SQL | Easy | 2026-11-10 |
 | [Reviews Per Reviewer](./practice/sql/reviews-per-reviewer) | SQL | Easy | 2026-11-10 |
