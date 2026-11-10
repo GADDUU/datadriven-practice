@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones Who Hold Attention](./practice/sql/the-ones-who-hold-attention) | SQL | Medium | 2026-11-10 |
 | [Noisiest Tables by DQ Failures](./practice/sql/noisiest-tables-by-dq-failures) | SQL | Medium | 2026-11-10 |
 | [Content Duration Snapshot](./practice/sql/content-duration-snapshot) | SQL | Easy | 2026-11-10 |
 | [CDN Image Request Paths](./practice/sql/cdn-image-request-paths) | SQL | Easy | 2026-11-10 |
