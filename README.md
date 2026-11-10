@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High Volume Batch Jobs](./practice/sql/high-volume-batch-jobs) | SQL | Easy | 2026-11-10 |
 | [US-East KV Store Entries](./practice/sql/us-east-kv-store-entries) | SQL | Easy | 2026-11-10 |
 | [Auth Service Health Checks](./practice/sql/auth-service-health-checks) | SQL | Easy | 2026-11-10 |
 | [Pipeline Completion Rate](./practice/sql/pipeline-completion-rate) | SQL | Medium | 2026-11-10 |
