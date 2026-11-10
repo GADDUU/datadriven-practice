@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Green Lights on the Order Line](./practice/sql/green-lights-on-the-order-line) | SQL | Easy | 2026-11-10 |
 | [Metric Trend by Department](./practice/sql/metric-trend-by-department) | SQL | Easy | 2026-11-10 |
 | [Slow Failures](./practice/sql/slow-failures) | SQL | Easy | 2026-11-10 |
 | [The Ad Ledger](./practice/sql/the-ad-ledger) | SQL | Easy | 2026-11-10 |
