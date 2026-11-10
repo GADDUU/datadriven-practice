@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Purchase Log](./practice/sql/purchase-log) | SQL | Easy | 2026-11-10 |
 | [First Build per Repository](./practice/sql/first-build-per-repository) | SQL | Easy | 2026-11-10 |
 | [Gateway Connection Timeouts](./practice/sql/gateway-connection-timeouts) | SQL | Easy | 2026-11-10 |
 | [Roll Call](./practice/sql/roll-call) | SQL | Easy | 2026-11-10 |
