@@ -27,7 +27,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [Product Transaction Counts](./practice/sql/product-transaction-counts) | SQL | Medium | 2026-11-08 |
 | [Average Spending by Account Status](./practice/sql/average-spending-by-account-status) | SQL | Medium | 2026-11-08 |
 | [The Footprint](./practice/sql/the-footprint) | SQL | Medium | 2026-11-08 |
-| [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
+| [Open Wounds](./practice/sql/open-wounds) | SQL | Medium | 2026-11-08 |
 | [Cheapest CDN Route](./practice/sql/cheapest-cdn-route) | SQL | Easy | 2026-11-07 |
 | [Higher Than Supervisor](./practice/sql/higher-than-supervisor) | SQL | Easy | 2026-11-07 |
 | [Higher Performing Variant](./practice/sql/higher-performing-variant) | SQL | Easy | 2026-11-07 |
