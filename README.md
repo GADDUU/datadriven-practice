@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Auth Service Health Checks](./practice/sql/auth-service-health-checks) | SQL | Easy | 2026-11-10 |
 | [Pipeline Completion Rate](./practice/sql/pipeline-completion-rate) | SQL | Medium | 2026-11-10 |
 | [Unused Read Tokens](./practice/sql/unused-read-tokens) | SQL | Easy | 2026-11-10 |
 | [Where the Money Pools](./practice/sql/where-the-money-pools) | SQL | Medium | 2026-11-10 |
