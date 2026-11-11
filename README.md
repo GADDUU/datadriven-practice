@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top 100 Batch Jobs Total Output](./practice/sql/top-100-batch-jobs-total-output) | SQL | Easy | 2026-11-11 |
 | [Top Pattern Matches](./practice/sql/top-pattern-matches) | SQL | Medium | 2026-11-11 |
 | [Successful Build Duration by Repository](./practice/sql/successful-build-duration-by-repository) | SQL | Medium | 2026-11-11 |
 | [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Medium | 2026-11-11 |
