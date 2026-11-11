@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High-Traffic Endpoints in February](./practice/sql/high-traffic-endpoints-in-february) | SQL | Easy | 2026-11-11 |
 | [On Their Way Out](./practice/sql/on-their-way-out) | SQL | Easy | 2026-11-11 |
 | [Top 100 Batch Jobs Total Output](./practice/sql/top-100-batch-jobs-total-output) | SQL | Easy | 2026-11-11 |
 | [Top Pattern Matches](./practice/sql/top-pattern-matches) | SQL | Medium | 2026-11-11 |
