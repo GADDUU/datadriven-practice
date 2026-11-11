@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Successful Build Duration by Repository](./practice/sql/successful-build-duration-by-repository) | SQL | Medium | 2026-11-11 |
 | [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Medium | 2026-11-11 |
 | [The Merge Counter](./practice/sql/the-merge-counter) | SQL | Easy | 2026-11-11 |
 | [Low Throughput Pipelines](./practice/sql/low-throughput-pipelines) | SQL | Easy | 2026-11-10 |
