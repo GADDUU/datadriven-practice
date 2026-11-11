@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [DQ Score Spread](./practice/sql/dq-score-spread) | SQL | Medium | 2026-11-11 |
 | [Workers Earning Above Department Average](./practice/sql/workers-earning-above-department-average) | SQL | Medium | 2026-11-11 |
 | [The Loudest Threads](./practice/sql/the-loudest-threads) | SQL | Medium | 2026-11-11 |
 | [Pod CPU to Memory Ratio](./practice/sql/pod-cpu-to-memory-ratio) | SQL | Medium | 2026-11-11 |
