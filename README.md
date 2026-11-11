@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-11-11 |
 | [Seen and Unseen](./practice/sql/seen-and-unseen) | SQL | Medium | 2026-11-11 |
 | [Keyword-Based User Search](./practice/sql/keyword-based-user-search) | SQL | Medium | 2026-11-11 |
 | [Endless Scroll](./practice/sql/endless-scroll) | SQL | Medium | 2026-11-11 |
