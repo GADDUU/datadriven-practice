@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-11-11 |
 | [DQ Score Spread](./practice/sql/dq-score-spread) | SQL | Medium | 2026-11-11 |
 | [Workers Earning Above Department Average](./practice/sql/workers-earning-above-department-average) | SQL | Medium | 2026-11-11 |
 | [The Loudest Threads](./practice/sql/the-loudest-threads) | SQL | Medium | 2026-11-11 |
