@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Heavy Hitters](./practice/sql/the-heavy-hitters) | SQL | Easy | 2026-11-11 |
 | [Profitable Categories by Price](./practice/sql/profitable-categories-by-price) | SQL | Easy | 2026-11-11 |
 | [High-Traffic Endpoints in February](./practice/sql/high-traffic-endpoints-in-february) | SQL | Easy | 2026-11-11 |
 | [On Their Way Out](./practice/sql/on-their-way-out) | SQL | Easy | 2026-11-11 |
