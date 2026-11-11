@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Loudest Threads](./practice/sql/the-loudest-threads) | SQL | Medium | 2026-11-11 |
 | [Pod CPU to Memory Ratio](./practice/sql/pod-cpu-to-memory-ratio) | SQL | Medium | 2026-11-11 |
 | [Metric Volatility Gap](./practice/sql/metric-volatility-gap) | SQL | Easy | 2026-11-11 |
 | [The Heavy Hitters](./practice/sql/the-heavy-hitters) | SQL | Easy | 2026-11-11 |
