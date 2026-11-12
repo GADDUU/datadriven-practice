@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Did We Actually Make Money?](./practice/sql/did-we-actually-make-money) | SQL | Medium | 2026-11-12 |
 | [Top 2 Ad Campaigns by Spend](./practice/sql/top-2-ad-campaigns-by-spend) | SQL | Medium | 2026-11-12 |
 | [DQ Fail Rate by Table](./practice/sql/dq-fail-rate-by-table) | SQL | Medium | 2026-11-12 |
 | [The Loudest Rooms](./practice/sql/the-loudest-rooms) | SQL | Medium | 2026-11-12 |
