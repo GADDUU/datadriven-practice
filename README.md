@@ -249,7 +249,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [Session-Fit Content](./practice/sql/session-fit-content) | SQL | Easy | 2026-10-29 |
 | [Endpoint Ranking](./practice/sql/endpoint-ranking) | SQL | Hard | 2026-10-29 |
 | [Top 5 Slowest DNS Lookups](./practice/sql/top-5-slowest-dns-lookups) | SQL | Easy | 2026-10-29 |
-| [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Easy | 2026-10-29 |
+| [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-10-29 |
 | [First Contact](./practice/sql/first-contact) | SQL | Medium | 2026-10-28 |
 | [Second to One](./practice/sql/second-to-one) | SQL | Medium | 2026-10-28 |
 | [First Half of Page Views](./practice/sql/first-half-of-page-views) | SQL | Medium | 2026-10-28 |
