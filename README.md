@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [DQ Fail Rate by Table](./practice/sql/dq-fail-rate-by-table) | SQL | Medium | 2026-11-12 |
 | [The Loudest Rooms](./practice/sql/the-loudest-rooms) | SQL | Medium | 2026-11-12 |
 | [The Ones We Watch](./practice/sql/the-ones-we-watch) | SQL | Medium | 2026-11-12 |
 | [Peak Non-Converting Month](./practice/sql/peak-non-converting-month) | SQL | Easy | 2026-11-12 |
