@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Peak Non-Converting Month](./practice/sql/peak-non-converting-month) | SQL | Easy | 2026-11-12 |
 | [Radio Silence](./practice/sql/radio-silence) | SQL | Hard | 2026-11-12 |
 | [Provider Cost Change H1](./practice/sql/provider-cost-change-h1) | SQL | Easy | 2026-11-11 |
 | [Most Recent Token Usage](./practice/sql/most-recent-token-usage) | SQL | Easy | 2026-11-11 |
