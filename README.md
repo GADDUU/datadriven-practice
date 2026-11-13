@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Best in Show](./practice/sql/best-in-show) | SQL | Medium | 2026-11-13 |
 | [Spending Tiers](./practice/sql/spending-tiers) | SQL | Medium | 2026-11-13 |
 | [Under the Line](./practice/sql/under-the-line) | SQL | Medium | 2026-11-13 |
 | [The Weak Link](./practice/sql/the-weak-link) | SQL | Medium | 2026-11-13 |
