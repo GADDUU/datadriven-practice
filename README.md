@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [User Spend Audit](./practice/sql/user-spend-audit) | SQL | Medium | 2026-11-13 |
 | [Users Outperforming Control](./practice/sql/users-outperforming-control) | SQL | Medium | 2026-11-13 |
 | [Customers Without Orders](./practice/sql/customers-without-orders) | SQL | Medium | 2026-11-13 |
 | [When It Rains](./practice/sql/when-it-rains) | SQL | Medium | 2026-11-13 |
