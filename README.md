@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Under the Line](./practice/sql/under-the-line) | SQL | Medium | 2026-11-13 |
 | [The Weak Link](./practice/sql/the-weak-link) | SQL | Medium | 2026-11-13 |
 | [Largest CDN Response](./practice/sql/largest-cdn-response) | SQL | Hard | 2026-11-13 |
 | [Hottest Regions by CPU](./practice/sql/hottest-regions-by-cpu) | SQL | Medium | 2026-11-12 |
