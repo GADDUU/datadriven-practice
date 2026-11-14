@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Repos with More Builds Than Commits](./practice/sql/repos-with-more-builds-than-commits) | SQL | Medium | 2026-11-14 |
 | [Two Names, One Campaign](./practice/sql/two-names-one-campaign) | SQL | Easy | 2026-11-14 |
 | [Cost Density Extremes](./practice/sql/cost-density-extremes) | SQL | Medium | 2026-11-13 |
 | [User Spend Audit](./practice/sql/user-spend-audit) | SQL | Medium | 2026-11-13 |
