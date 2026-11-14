@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Device Type Serving Most Users](./practice/sql/device-type-serving-most-users) | SQL | Medium | 2026-11-14 |
 | [Mutual Channel Connections](./practice/sql/mutual-channel-connections) | SQL | Medium | 2026-11-14 |
 | [The Above Average](./practice/sql/the-above-average) | SQL | Medium | 2026-11-14 |
 | [Category Buyers](./practice/sql/category-buyers) | SQL | Medium | 2026-11-14 |
