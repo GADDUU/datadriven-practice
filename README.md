@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Buried Digits](./practice/sql/buried-digits) | SQL | Medium | 2026-11-14 |
 | [Crowned Together](./practice/sql/crowned-together) | SQL | Medium | 2026-11-14 |
 | [Device Type Serving Most Users](./practice/sql/device-type-serving-most-users) | SQL | Medium | 2026-11-14 |
 | [Mutual Channel Connections](./practice/sql/mutual-channel-connections) | SQL | Medium | 2026-11-14 |
