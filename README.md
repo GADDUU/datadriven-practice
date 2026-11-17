@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [The Extremes](./practice/sql/the-extremes) | SQL | Hard | 2026-11-16 |
+| [The Extremes](./practice/sql/the-extremes) | SQL | Easy | 2026-11-16 |
 | [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-11-15 |
 | [Repository Commit Ranking](./practice/sql/repository-commit-ranking) | SQL | Medium | 2026-11-14 |
 | [Inactive Users in Date Range](./practice/sql/inactive-users-in-date-range) | SQL | Medium | 2026-11-14 |
