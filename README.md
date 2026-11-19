@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Who Moved the Needle](./practice/sql/who-moved-the-needle) | SQL | Medium | 2026-11-19 |
 | [The Notification Lifecycle](./practice/sql/the-notification-lifecycle) | SQL | Medium | 2026-11-19 |
 | [The Heavy Lifters](./practice/sql/the-heavy-lifters) | SQL | Medium | 2026-11-19 |
 | [The Seventh Day](./practice/sql/the-seventh-day) | SQL | Medium | 2026-11-19 |
