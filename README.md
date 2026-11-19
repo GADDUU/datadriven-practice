@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Heavy Lifters](./practice/sql/the-heavy-lifters) | SQL | Medium | 2026-11-19 |
 | [The Seventh Day](./practice/sql/the-seventh-day) | SQL | Medium | 2026-11-19 |
 | [Days with More Edited Than Unedited Messages](./practice/sql/days-with-more-edited-than-unedited-messages) | SQL | Medium | 2026-11-19 |
 | [The Extremes](./practice/sql/the-extremes) | SQL | Hard | 2026-11-16 |
