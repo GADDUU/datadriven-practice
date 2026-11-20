@@ -226,7 +226,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [The Loudest Machines](./practice/sql/the-loudest-machines) | SQL | Medium | 2026-11-04 |
 | [Average Watch Time by Format](./practice/sql/average-watch-time-by-format) | SQL | Medium | 2026-11-04 |
 | [Net Lines](./practice/sql/net-lines) | SQL | Medium | 2026-11-04 |
-| [Power Users](./practice/sql/power-users) | SQL | Easy | 2026-11-04 |
+| [Power Users](./practice/sql/power-users) | SQL | Medium | 2026-11-04 |
 | [The Tag Order](./practice/sql/the-tag-order) | SQL | Hard | 2026-11-04 |
 | [Impressions by Search Keyword](./practice/sql/impressions-by-search-keyword) | SQL | Hard | 2026-11-03 |
 | [The Price of a Tap](./practice/sql/the-price-of-a-tap) | SQL | Easy | 2026-11-03 |
