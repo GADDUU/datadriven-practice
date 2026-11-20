@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top 10 Slowest Endpoints](./practice/sql/top-10-slowest-endpoints) | SQL | Easy | 2026-11-20 |
 | [Poles Apart](./practice/sql/poles-apart) | SQL | Medium | 2026-11-19 |
 | [Returning Buyers](./practice/sql/returning-buyers) | SQL | Medium | 2026-11-19 |
 | [Above the Curve](./practice/sql/above-the-curve) | SQL | Medium | 2026-11-19 |
