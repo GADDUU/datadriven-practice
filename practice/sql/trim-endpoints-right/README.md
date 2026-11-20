@@ -2,7 +2,7 @@
 
 *Trailing whitespace. Clean it up.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/trim_endpoints_right)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/trim_endpoints_right)
 
 ## How it went
 
