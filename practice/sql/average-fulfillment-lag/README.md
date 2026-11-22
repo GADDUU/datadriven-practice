@@ -2,7 +2,7 @@
 
 *Ordered, then... waiting.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/average_fulfillment_lag)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/average_fulfillment_lag)
 
 ## How it went
 

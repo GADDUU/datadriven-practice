@@ -68,7 +68,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [Top 100 Batch Jobs Total Output](./practice/sql/top-100-batch-jobs-total-output) | SQL | Easy | 2026-11-11 |
 | [Top Pattern Matches](./practice/sql/top-pattern-matches) | SQL | Medium | 2026-11-11 |
 | [Successful Build Duration by Repository](./practice/sql/successful-build-duration-by-repository) | SQL | Medium | 2026-11-11 |
-| [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Medium | 2026-11-11 |
+| [Average Fulfillment Lag](./practice/sql/average-fulfillment-lag) | SQL | Easy | 2026-11-11 |
 | [The Merge Counter](./practice/sql/the-merge-counter) | SQL | Easy | 2026-11-11 |
 | [Low Throughput Pipelines](./practice/sql/low-throughput-pipelines) | SQL | Easy | 2026-11-10 |
 | [High Volume Batch Jobs](./practice/sql/high-volume-batch-jobs) | SQL | Easy | 2026-11-10 |
