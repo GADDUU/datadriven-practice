@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Regions by High CPU Nodes](./practice/sql/top-regions-by-high-cpu-nodes) | SQL | Hard | 2026-11-22 |
 | [The Vote Tally](./practice/sql/the-vote-tally) | SQL | Hard | 2026-11-22 |
 | [The Roster](./practice/sql/the-roster) | SQL | Easy | 2026-11-22 |
 | [Top Recent Sellers](./practice/sql/top-recent-sellers) | SQL | Easy | 2026-11-22 |
