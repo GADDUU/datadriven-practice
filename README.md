@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Provinces](./practice/sql/the-provinces) | SQL | Easy | 2026-11-22 |
 | [Before They Walk](./practice/sql/before-they-walk) | SQL | Medium | 2026-11-21 |
 | [Top 10 Slowest Endpoints](./practice/sql/top-10-slowest-endpoints) | SQL | Easy | 2026-11-20 |
 | [Poles Apart](./practice/sql/poles-apart) | SQL | Medium | 2026-11-19 |
