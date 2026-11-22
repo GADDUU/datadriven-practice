@@ -551,7 +551,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [Alert Count by Severity Tier](./practice/sql/alert-count-by-severity-tier) | SQL | Medium | 2026-10-05 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-10-05 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-10-05 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-10-05 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-10-05 |
 | [Longest Running Pipeline](./practice/sql/longest-running-pipeline) | SQL | Medium | 2026-10-05 |
 | [Metric Value Pairs Over Threshold](./practice/sql/metric-value-pairs-over-threshold) | SQL | Medium | 2026-10-04 |
 | [Unmatched Deploy Services](./practice/sql/unmatched-deploy-services) | SQL | Medium | 2026-10-04 |
