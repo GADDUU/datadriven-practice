@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-11-22 |
 | [Idle Team Members](./practice/sql/idle-team-members) | SQL | Easy | 2026-11-22 |
 | [Max Value Per Location](./practice/sql/max-value-per-location) | SQL | Easy | 2026-11-22 |
 | [The Provinces](./practice/sql/the-provinces) | SQL | Easy | 2026-11-22 |
