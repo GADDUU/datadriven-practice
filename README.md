@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Biggest Deployment Decline](./practice/sql/biggest-deployment-decline) | SQL | Medium | 2026-11-24 |
 | [Above Category Average](./practice/sql/above-category-average) | SQL | Easy | 2026-11-23 |
 | [Top Product Categories](./practice/sql/top-product-categories) | SQL | Easy | 2026-11-23 |
 | [Top Regions by High CPU Nodes](./practice/sql/top-regions-by-high-cpu-nodes) | SQL | Hard | 2026-11-22 |
