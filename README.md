@@ -29,7 +29,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [The Seventh Day](./practice/sql/the-seventh-day) | SQL | Medium | 2026-11-19 |
 | [Days with More Edited Than Unedited Messages](./practice/sql/days-with-more-edited-than-unedited-messages) | SQL | Medium | 2026-11-19 |
 | [The Extremes](./practice/sql/the-extremes) | SQL | Hard | 2026-11-16 |
-| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Hard | 2026-11-15 |
+| [Median Failure Rate by Table](./practice/sql/median-failure-rate-by-table) | SQL | Easy | 2026-11-15 |
 | [Repository Commit Ranking](./practice/sql/repository-commit-ranking) | SQL | Medium | 2026-11-14 |
 | [Inactive Users in Date Range](./practice/sql/inactive-users-in-date-range) | SQL | Medium | 2026-11-14 |
 | [Buried Digits](./practice/sql/buried-digits) | SQL | Medium | 2026-11-14 |
