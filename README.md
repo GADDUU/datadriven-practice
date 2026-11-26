@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Kings for a Day](./practice/sql/kings-for-a-day) | SQL | Medium | 2026-11-26 |
 | [Against the Clock](./practice/sql/against-the-clock) | SQL | Easy | 2026-11-25 |
 | [Even the Silent Ones](./practice/sql/even-the-silent-ones) | SQL | Medium | 2026-11-24 |
 | [Biggest Deployment Decline](./practice/sql/biggest-deployment-decline) | SQL | Medium | 2026-11-24 |
