@@ -228,7 +228,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [The Campaign Trail](./practice/sql/the-campaign-trail) | SQL | Easy | 2026-11-05 |
 | [Top-Ranked Wines by Variety](./practice/sql/top-ranked-wines-by-variety) | SQL | Easy | 2026-11-05 |
 | [Even-ID February Signups](./practice/sql/even-id-february-signups) | SQL | Easy | 2026-11-05 |
-| [Third Largest Batch Job](./practice/sql/third-largest-batch-job) | SQL | Easy | 2026-11-05 |
+| [Third Largest Batch Job](./practice/sql/third-largest-batch-job) | SQL | Medium | 2026-11-05 |
 | [User Roster](./practice/sql/user-roster) | SQL | Easy | 2026-11-05 |
 | [The Spender Leaderboard](./practice/sql/the-spender-leaderboard) | SQL | Easy | 2026-11-05 |
 | [This Year's Class](./practice/sql/this-year-s-class) | SQL | Easy | 2026-11-05 |
