@@ -1,6 +1,6 @@
 # Auth Endpoint Callers
 
-*Identify users who have called authentication API endpoints*
+*Every door into the system has a name on it. The audit wants every name.*
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/auth_endpoint_callers)
 
