@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crowded Hour](./practice/sql/the-crowded-hour) | SQL | Easy | 2026-11-27 |
 | [Only Here](./practice/sql/only-here) | SQL | Hard | 2026-11-27 |
 | [Kings for a Day](./practice/sql/kings-for-a-day) | SQL | Medium | 2026-11-26 |
 | [Against the Clock](./practice/sql/against-the-clock) | SQL | Easy | 2026-11-25 |
