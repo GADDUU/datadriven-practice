@@ -1,6 +1,6 @@
 # Priciest Item in Each Category
 
-*The most expensive item per category.*
+*Every aisle has a ceiling. Find who sits on it.*
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/priciest_item_in_each_category)
 
