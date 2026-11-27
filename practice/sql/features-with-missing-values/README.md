@@ -1,6 +1,6 @@
 # Features With Missing Values
 
-*Missing data in the features.*
+*The job keeps crashing on what was never written down.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/features_with_missing_values)
 
