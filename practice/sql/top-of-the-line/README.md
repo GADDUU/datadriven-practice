@@ -1,6 +1,6 @@
 # Top of the Line
 
-*The five priciest items for the luxury section.*
+*The top of the list belongs to the smallest real price tags.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/top_of_the_line)
 
