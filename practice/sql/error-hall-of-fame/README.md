@@ -2,7 +2,7 @@
 
 *The year's worst error categories.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/error_hall_of_fame)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/error_hall_of_fame)
 
 ## How it went
 
