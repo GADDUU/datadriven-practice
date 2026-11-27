@@ -1,6 +1,6 @@
 # High Volume Batch Jobs
 
-*Batch jobs that processed millions.*
+*Some runs carry the load. Every one of them counts.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/high_volume_batch_jobs)
 
