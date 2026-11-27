@@ -1,6 +1,6 @@
 # Top 10 Model Accuracies
 
-*Top ten model performance.*
+*When the scores tie at the top, someone still has to be first.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/top_10_model_accuracies)
 
