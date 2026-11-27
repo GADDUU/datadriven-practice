@@ -1,6 +1,6 @@
 # Last Five Batch Jobs
 
-*The last five. A quick tail check.*
+*The last 5. A quick tail check.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/last_five_batch_jobs)
 
