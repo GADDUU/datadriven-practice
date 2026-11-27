@@ -1,6 +1,6 @@
 # Daily and Weekly Active Users
 
-*One metric by day, one by week. Same users, different lenses.*
+*Sessions pile up all day. People are what the growth team counts.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/daily_and_weekly_active_users)
 
