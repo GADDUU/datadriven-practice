@@ -1,6 +1,6 @@
 # Top 10 Batch Jobs
 
-*The ten biggest batch jobs.*
+*Volume is earned run by run. Find the jobs that carried the most.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/top_10_batch_jobs)
 
