@@ -1,6 +1,6 @@
 # Product Revenue Ranking
 
-*Rank them by revenue. See who leads.*
+*Let the ledger choose who earns the homepage.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/product_revenue_ranking)
 
