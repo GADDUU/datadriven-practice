@@ -1,8 +1,8 @@
 # Push Opens by Platform and Campaign
 
-*Opens by platform and campaign.*
+*A thousand taps can come from a handful of thumbs.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/push_opens_by_platform_and_campaign)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/push_opens_by_platform_and_campaign)
 
 ## How it went
 

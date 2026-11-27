@@ -390,7 +390,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [The Standing Fleet](./practice/sql/the-standing-fleet) | SQL | Easy | 2026-10-22 |
 | [Largest A/B Test by Participants](./practice/sql/largest-a-b-test-by-participants) | SQL | Medium | 2026-10-22 |
 | [Who's Looking](./practice/sql/who-s-looking) | SQL | Easy | 2026-10-22 |
-| [Push Opens by Platform and Campaign](./practice/sql/push-opens-by-platform-and-campaign) | SQL | Medium | 2026-10-22 |
+| [Push Opens by Platform and Campaign](./practice/sql/push-opens-by-platform-and-campaign) | SQL | Easy | 2026-10-22 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-10-22 |
 | [Single Service Owners](./practice/sql/single-service-owners) | SQL | Medium | 2026-10-22 |
 | [Top 2 Active Push Days](./practice/sql/top-2-active-push-days) | SQL | Medium | 2026-10-22 |
