@@ -661,7 +661,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [Even-ID June Signups](./practice/sql/even-id-june-signups) | SQL | Easy | 2026-09-26 |
 | [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Easy | 2026-09-25 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-09-25 |
-| [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-09-24 |
+| [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Easy | 2026-09-24 |
 | [The Stable and the Restless](./practice/sql/the-stable-and-the-restless) | SQL | Easy | 2026-09-22 |
 
 <!-- datadriven:index:end -->
