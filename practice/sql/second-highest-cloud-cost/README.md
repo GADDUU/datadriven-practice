@@ -2,7 +2,7 @@
 
 *The second biggest bill on record.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/second_highest_cloud_cost)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/second_highest_cloud_cost)
 
 ## How it went
 
