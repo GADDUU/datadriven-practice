@@ -1,6 +1,6 @@
 # Idle Team Members
 
-*Sprint started. Some people never got assigned.*
+*They signed up. Then the trail went cold.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/idle_team_members)
 
