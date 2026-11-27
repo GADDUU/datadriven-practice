@@ -1,6 +1,6 @@
 # Top 2 Active Push Days
 
-*2 days stood out from the rest. Which ones?*
+*Some months only looked busier. Find the ones that truly varied.*
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/top_2_active_push_days)
 
