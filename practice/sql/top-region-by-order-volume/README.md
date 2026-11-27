@@ -1,6 +1,6 @@
 # Top Region by Order Volume
 
-*The single busiest region.*
+*Somewhere on the map, the marketplace goes quiet.*
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/top_region_by_order_volume)
 
