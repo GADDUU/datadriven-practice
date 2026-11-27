@@ -1,8 +1,8 @@
 # Top 10 CPU-Heavy Nodes
 
-*The ten hungriest nodes.*
+*The 10 hungriest nodes.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/top_10_cpu_heavy_nodes)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/top_10_cpu_heavy_nodes)
 
 ## How it went
 
