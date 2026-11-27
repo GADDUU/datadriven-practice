@@ -1,6 +1,6 @@
 # Top 10 Slowest Endpoints
 
-*The ten endpoints nobody wants to call.*
+*The 10 endpoints nobody wants to call.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/top_10_slowest_endpoints)
 
