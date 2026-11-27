@@ -1,6 +1,6 @@
 # Search Endpoint Status Distribution
 
-*Status codes on the health endpoint.*
+*One flaky path, and every answer it gave back.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/search_endpoint_status_distribution)
 
