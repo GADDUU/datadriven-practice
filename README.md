@@ -429,7 +429,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [Where the Talking Stops](./practice/sql/where-the-talking-stops) | SQL | Easy | 2026-10-21 |
 | [Clean Averages](./practice/sql/clean-averages) | SQL | Easy | 2026-10-21 |
 | [Last Migration Record](./practice/sql/last-migration-record) | SQL | Easy | 2026-10-21 |
-| [Average Session Duration by Device](./practice/sql/average-session-duration-by-device) | SQL | Easy | 2026-10-21 |
+| [Average Session Duration by Device](./practice/sql/average-session-duration-by-device) | SQL | Medium | 2026-10-21 |
 | [User Engagement Summary](./practice/sql/user-engagement-summary) | SQL | Medium | 2026-10-21 |
 | [Custom Message Type Counts](./practice/sql/custom-message-type-counts) | SQL | Medium | 2026-10-21 |
 | [User Devices](./practice/sql/user-devices) | SQL | Medium | 2026-10-21 |
