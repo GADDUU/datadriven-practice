@@ -1,6 +1,6 @@
 # First Impressions
 
-*Just the first three characters. That is all.*
+*Just the first 3 characters. That is all.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/first_impressions)
 
