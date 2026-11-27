@@ -290,7 +290,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [The February Cohort](./practice/sql/the-february-cohort) | SQL | Easy | 2026-10-30 |
 | [Running Tab](./practice/sql/running-tab) | SQL | Medium | 2026-10-30 |
 | [The Last Checkout](./practice/sql/the-last-checkout) | SQL | Medium | 2026-10-30 |
-| [Bookends](./practice/sql/bookends) | SQL | Easy | 2026-10-30 |
+| [Bookends](./practice/sql/bookends) | SQL | Medium | 2026-10-30 |
 | [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-10-30 |
 | [Alert Response Breakdown](./practice/sql/alert-response-breakdown) | SQL | Medium | 2026-10-30 |
 | [Tiers of Want](./practice/sql/tiers-of-want) | SQL | Hard | 2026-10-30 |

@@ -2,7 +2,7 @@
 
 *The extremes of the user base.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/bookends)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/bookends)
 
 ## How it went
 
