@@ -504,7 +504,7 @@ Scored work from [DataDriven](https://datadriven.io/u/gadduu), committed here as
 | [CDN Traffic by Day and Hour](./practice/sql/cdn-traffic-by-day-and-hour) | SQL | Medium | 2026-10-17 |
 | [Two-Way Street](./practice/sql/two-way-street) | SQL | Medium | 2026-10-17 |
 | [Top Users by Recent Spend](./practice/sql/top-users-by-recent-spend) | SQL | Medium | 2026-10-17 |
-| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Easy | 2026-10-17 |
+| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-10-17 |
 | [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-10-17 |
 | [Below the Line](./practice/sql/below-the-line) | SQL | Medium | 2026-10-17 |
 | [Still Breathing](./practice/sql/still-breathing) | SQL | Medium | 2026-10-17 |
