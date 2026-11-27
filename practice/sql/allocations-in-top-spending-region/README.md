@@ -2,7 +2,7 @@
 
 *The biggest spenders live in one region.*
 
-[SQL · Hard · on DataDriven](https://datadriven.io/problems/allocations_in_top_spending_region)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/allocations_in_top_spending_region)
 
 ## How it went
 
