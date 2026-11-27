@@ -1,6 +1,6 @@
 # Ad Revenue by Age Bucket
 
-*Ad dollars, sliced by country.*
+*Every age group pays for attention differently. Find who pays most.*
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/ad_revenue_by_age_bucket)
 
