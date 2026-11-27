@@ -2,7 +2,7 @@
 
 *Where the fleet runs warmest.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/hottest_regions_by_cpu)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/hottest_regions_by_cpu)
 
 ## How it went
 
