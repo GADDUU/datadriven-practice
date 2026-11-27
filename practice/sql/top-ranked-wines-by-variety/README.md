@@ -1,6 +1,6 @@
 # Top-Ranked Wines by Variety
 
-*The best bottles. Ranked by variety.*
+*Some stories end before the visit does.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/top_ranked_wines_by_variety)
 
